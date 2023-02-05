@@ -1,0 +1,3918 @@
+question_id,paragraph_id,answers
+1,1,Apple
+2,1,"October 23, 2001"
+3,1,three
+4,1,portable media players
+5,1,touchscreen
+6,1,Apple
+7,2,data storage
+8,2,2 GB
+9,2,128 GB
+10,2,iPod Shuffle
+11,2,iPod Touch
+12,2,2 GB
+13,2,128 GB
+14,3,iTunes
+15,3,Apple Macintosh and Microsoft Windows
+16,3,iTunes
+17,4,one
+18,4,2010
+19,5,A8
+20,5,sixth
+21,5,2015
+22,11,12.2
+23,6,2001
+24,6,Jon Rubinstein
+25,6,5 GB
+26,6,2001
+27,6,5 GB
+28,6,the Walkman
+29,6,Jon Rubinstein
+30,7,Chicago
+31,7,Helvetica
+32,7,Steve Jobs
+33,7,Helvetica
+34,8,U2
+35,8,black
+36,8,video
+37,8,U2
+38,8,black
+39,9,Kane Kramer
+40,9,UK
+41,9,1981
+42,9,IXI
+43,10,Vinnie Chieco
+44,10,freelance copywriter
+45,10,2001: A Space Odyssey
+46,10,Joseph N. Grasso
+47,10,2005
+48,10,2001: A Space Odyssey
+49,10,Vinnie Chieco
+50,11,12.2
+51,11,12.2
+52,12,bass
+53,12,undersized DC-blocking capacitors
+54,13,clipping
+55,13,2006
+56,13,"R&B, Rock, Acoustic, and Bass Booster"
+57,14,hearing loss
+58,14,EU
+59,14,France
+60,14,100 dB
+61,15,FireWire
+62,15,FireWire
+63,16,third generation
+64,16,30-pin dock connector
+65,16,fifth
+66,16,fourth
+67,16,third generation
+68,16,Shuffle
+69,16,FireWire
+70,16,USB
+71,17,Belkin and Griffin
+72,17,dock connector
+73,17,paying royalties
+74,18,seventh generation iPod Nano
+75,18,8
+76,18,both sides
+77,18,Lightning
+78,18,fifth generation
+79,19,Nike+iPod pedometer
+80,21,audio input jacks
+81,19,Nike
+82,20,BMW
+83,20,2005
+84,21,"JVC, Pioneer, Kenwood, Alpine, Sony, and Harman Kardon"
+85,21,audio input jacks
+86,21,FM transmitters
+87,21,audio input jacks
+88,22,individual seat-back displays
+89,22,"United, Continental, Delta, and Emirates"
+90,22,2007
+91,23,Apple Lossless
+92,23,iPod photo
+93,23,WMA
+94,23,Digital Rights Management
+95,23,"MP3, AAC/M4A, Protected AAC, AIFF, WAV, Audible audiobook, and Apple Lossless"
+96,23,iPod photo
+97,24,one
+98,24,library
+99,24,host computer
+100,25,five
+101,25,click wheel
+102,25,iPhone
+103,25,five
+104,25,Shuffle
+105,26,iTunes
+106,26,"October 12, 2005"
+107,26,"September 12, 2006"
+108,26,2003
+109,27,AAC
+110,27,five
+111,27,iTunes Plus
+112,27,"January 6, 2009"
+113,27,AAC
+114,27,iTunes Plus
+115,28,iPods
+116,28,DRM
+117,29,Universal Music Group
+118,29,2007
+119,30,"September 5, 2007"
+120,30,2007
+121,31,Brick
+122,31,"Parachute, Solitaire, and Music Quiz"
+123,31,easter egg
+124,31,Brick
+125,31,"Parachute, Solitaire, and Music Quiz"
+126,32,2006
+127,32,iTunes 7
+128,32,5th generation
+129,32,4th generation
+130,32,2006
+131,32,fifth
+132,33,video game handheld console market
+133,33,GamePro and EGM
+134,34,.ipg
+135,34,iOS
+136,34,iPod Touch and iPhone
+137,34,not
+138,35,third-party
+139,35,iTunes
+140,36,hidden
+141,36,manual
+142,37,2005
+143,37,patent infringement
+144,37,"Sony, RealNetworks, Napster, and Musicmatch"
+145,37,Ho Keung Tse
+146,37,Advanced Audio Devices
+147,37,FairPlay
+148,38,rotational user inputs
+149,38,August 2005
+150,38,Creative Technology
+151,38,Zen Patent
+152,38,rotational user inputs
+153,39,"August 24, 2006"
+154,39,$100 million
+155,39,the Made for iPod program
+156,40,90%
+157,40,2004
+158,40,72.7%
+159,40,Bloomberg Online
+160,40,90%
+161,40,70%
+162,41,"January 8, 2004"
+163,41,Wal-Mart
+164,40,90%
+165,42,hundred million
+166,42,32%
+167,42,$5.2 billion
+168,42,32%
+169,43,19.22%
+170,43,$15.4 billion
+171,44,$1.58 billion
+172,44,21%
+173,44,42%
+174,45,2009
+175,45,14.21%
+176,45,220 million
+177,46,fourth
+178,46,Sony Ericsson and Nokia
+179,46,WMA
+180,46,Sony Ericsson and Nokia
+181,47,business
+182,47,communication and training
+183,47,Royal and Western Infirmaries
+184,48,Entertainment Weekly
+185,48,Duke
+186,48,Entertainment Weekly
+187,49,the Album Era
+188,49,music industry
+189,49,digital music storage
+190,49,the Album Era
+191,50,14 hours
+192,50,MP3.com
+193,50,2003
+194,50,8 hours
+195,51,third-party vendors
+196,51,refurbished replacement iPod
+197,51,lithium-ion
+198,51,batteries
+199,51,lithium-ion
+200,52,$99
+201,52,soldering tools
+202,52,Fifth generation
+203,52,2003
+204,52,$99
+205,52,Nano
+206,53,Apple product replacement program
+207,54,13.7%
+208,54,late 2005
+209,54,screen
+210,55,The Mail on Sunday
+211,55,35%
+212,56,Verité
+213,56,Electronic Industry Code of Conduct Implementation Group
+214,56,Foxconn
+215,56,"Longhua, Shenzhen"
+216,56,Foxconn
+217,56,Verité
+218,56,2006
+219,57,2010
+220,57,2010
+221,58,innovation
+224,59,"69,197"
+225,59,2008
+226,67,6.4 MS
+227,59,May 12
+228,59,02:28:01 PM China Standard Time
+229,82,"1,700"
+231,67,within 72 hours
+233,60,19 km
+235,61,15 million
+236,61,1 trillion RMB
+239,61,"18,222"
+240,61,4.8 million
+244,62,2 minutes
+245,62,almost 80%
+246,68,a different fault
+248,63,Longmenshan fault
+249,63,first 80 sec.
+250,63,9 meters
+253,64,written report
+259,65,northeastern and southwestern ends
+261,66,in two stages
+263,66,firmness of the terrain
+265,67,within 72 hours of the main quake.
+269,67,246
+271,59,May 12
+274,68,2008 Panzhihua earthquake
+278,69,very disastrous
+279,70,3.5 metres
+281,70,2.3 metres
+284,70,4.8 metres
+285,71,Shanghai's financial district
+287,71,May 12
+294,72,"Hui County, Gansu"
+295,73,All of the highways
+297,82,"1,700"
+299,73,fewer than 60
+300,74,southwestern China
+301,74,Copper
+302,74,suspended trading
+303,74,southwestern China
+304,74,Shenzhen Stock Exchange
+305,75,mobile and terrestrial
+308,75,telecommunications
+309,75,Sichuan area
+310,75,the government
+311,76,China Unicom's service
+312,75,major news and media
+314,76,more than 700
+315,76,China Unicom
+317,77,31
+319,77,Wolong National Nature Reserve
+320,77,Six
+321,77,five
+323,78,"2,000"
+325,78,Hydropower Plant
+326,78,20 km
+327,78,Tulong reservoir
+328,79,"68,636"
+329,79,"374,176"
+330,79,158
+333,79,"18,498"
+334,79,"374,176"
+335,79,tried to repair roads
+340,80,"10,000"
+347,81,neglected and untouched
+349,81,insufficient
+350,81,medical treatment
+352,82,"1,700"
+353,82,700
+354,82,"1,700"
+355,82,"7,000"
+357,83,"5,335"
+358,83,546
+360,83,546
+361,83,fertility clinics
+363,84,12.5 million
+365,84,a million
+366,87,earthquake
+367,86,make a detailed preliminary survey of damaged buildings
+368,86,a variety of reasons why many constructions failed to withstand the earthquake.
+369,86,team of engineers
+370,86,survey of damaged buildings
+371,87,"the poorer, rural villages"
+374,87,not designed
+376,87,regulations
+378,88,minor damage
+380,88,Chinese history
+383,89,6.0 Mw
+386,89,"Qingchuan, Sichuan"
+389,90,Wei Hong
+390,90,"200,000"
+391,91,geomechanics
+392,91,the rescue work
+396,92,the most serious class of natural disasters
+398,92,Level II emergency
+399,92,most serious
+402,93,22
+403,93,earthquake emergency relief
+405,93,Armed Police General Hospital
+406,93,in two military transport planes
+408,125,Hong Kong
+409,94,Book Blade
+410,95,living in relief centres
+412,95,rubble of schools
+413,95,June 1
+416,96,Saudi Arabia
+417,96,"€40,000,000"
+420,96,four
+421,97,3 years
+423,97,one province to one affected county
+425,94,close analysis
+427,98,The government
+428,64,reports predicting the earthquake
+431,99,statistics
+432,100,that earthquake prediction was a global issue
+433,100,no proven methods exist
+436,100,did not see anything
+438,101,Chen Xuezhong
+439,101,Chen Xuezhong
+440,101,2002
+443,102,no consensus
+446,103,the traffic problem
+451,104,"15,600"
+452,104,heavy rain and landslides
+453,104,"15,600"
+455,105,the deployment of an additional 90 helicopters
+456,105,30
+458,105,civil aviation industry
+459,105,non-combat airlifting
+463,106,cope with the quake
+465,107,chartered cargo flight
+467,107,Chengdu
+468,107,rescue team
+470,108,Chinese authorities
+471,108,May 16
+472,108,satellite images
+473,108,tents and generators
+479,109,news agency Xinhua
+480,109,a student
+481,109,contact information
+482,109,May 31
+483,110,a moment of silence
+486,110,a moment of silence
+487,110,several concerts
+489,111,China Unicom and China Mobile
+492,111,$772 million
+494,112,"788,000 yuan"
+495,112,Wenchuan County
+496,112,"30,000"
+497,112,"US$143,000"
+498,112,"30,000"
+499,112,The Amity Foundation
+503,114,The Giving of Love
+505,114,Promise
+506,114,The Giving of Love
+507,114,CCTV
+508,114,1.57 million
+509,115,up to international standards
+513,115,1976 Tangshan earthquake
+515,116,34
+518,116,34
+519,116,Entire villages
+521,117,the dam bursting
+522,116,Entire villages
+523,117,"1,200"
+527,118,Cars and trucks
+529,118,National Flag
+530,119,in Ningbo
+532,119,"Ruijin, Jiangxi"
+533,120,various gaming sites
+534,120,burst out cheering
+538,82,600
+544,122,safety checks
+546,122,Reuters
+551,123,on school collapses
+555,124,crime of inciting subversion
+556,124,put them online
+559,125,in 2007
+560,94,construction engineer
+561,125,massive casualties
+562,126,that China formally requested the support of the international community
+563,126,condolences and assistance
+565,127,"$214,000 and $71,000"
+567,127,the Chinese public
+569,127,26 million
+570,128,swift and very efficient
+576,129,programmes suspended
+577,130,school construction scandal
+580,131,poorly built schools
+581,132,state-controlled media
+585,133,thin iron wires
+588,134,their only child
+589,135,World Wide Web
+592,-1,
+593,-1,
+594,-1,
+596,136,to archive the entire Internet
+598,-1,
+600,-1,
+602,137,The Rocky and Bullwinkle Show
+603,-1,
+605,-1,
+606,-1,
+609,138,robots exclusion standard
+610,138,Archive-It.org
+612,-1,
+613,-1,
+614,-1,
+615,139,researchers and scientists
+618,-1,
+619,-1,
+621,-1,
+623,140,six months
+624,140,variable
+633,-1,
+634,-1,
+638,142,PetaBox rack systems
+639,142,Capricorn Technologies
+642,-1,
+643,-1,
+646,-1,
+647,-1,
+648,-1,
+649,-1,
+650,-1,
+653,-1,
+654,-1,
+655,-1,
+656,-1,
+657,145,2008
+659,-1,
+662,-1,
+663,-1,
+664,-1,
+668,147,the robots.txt file
+669,-1,
+670,-1,
+673,-1,
+674,-1,
+675,-1,
+677,147,Chordiant Software Inc
+678,147,Chordiant
+679,-1,
+680,-1,
+683,150,TVP Polonia
+687,-1,
+689,151,in examining a patent application
+690,151,authoritative statement of the archivist
+694,-1,
+695,-1,
+697,-1,
+699,153,delete pages from its system
+702,-1,
+704,154,Scientology
+705,154,the site owner
+706,154,the Church of Scientology
+708,-1,
+712,155,DMCA and the Computer Fraud and Abuse Act
+713,-1,
+719,156,Robots.txt
+721,-1,
+723,-1,
+726,-1,
+727,-1,
+729,158,profane-justice.org
+730,158,District of Colorado
+731,-1,
+736,159,Internet Archive
+738,-1,
+741,-1,
+742,-1,
+743,-1,
+744,-1,
+745,161,the National Defence Act
+751,-1,
+752,162,four
+753,161,the National Defence Act
+754,-1,
+755,200,)
+756,-1,
+757,-1,
+758,163,Queen Elizabeth II
+762,-1,
+766,164,the Soviet military threat
+767,164,the early 1990s
+769,-1,
+770,-1,
+771,-1,
+773,-1,
+775,165,Afghanistan
+777,-1,
+778,-1,
+788,-1,
+789,-1,
+790,167,the American Air Forces
+791,167,military training
+793,-1,
+794,-1,
+796,-1,
+798,-1,
+800,164,the Soviet military threat
+801,168,American Revolutionary War
+804,-1,
+807,-1,
+808,-1,
+809,-1,
+810,170,Korean War
+811,-1,
+814,169,1906
+821,170,Second Boer War
+824,-1,
+826,-1,
+828,171,more than 200 operations
+829,171,72
+833,-1,
+834,-1,
+835,-1,
+838,-1,
+840,172,Croatia
+841,-1,
+846,-1,
+848,-1,
+849,-1,
+850,175,After the 1980s
+851,174,"the Royal Canadian Navy, Canadian Army, and Royal Canadian Air Force"
+852,-1,
+854,174,First World War
+855,-1,
+858,175,2013
+859,-1,
+860,-1,
+862,176,the Government of Afghanistan
+864,-1,
+865,-1,
+867,177,$20.1 billion
+868,177,"approximately 119,000"
+869,177,"around 124,000"
+870,-1,
+873,-1,
+875,-1,
+878,179,C-130 Hercules
+880,-1,
+881,-1,
+883,180,"vehicle drivers and mechanics, aircraft mechanics, air-traffic controllers"
+884,182,best of their abilities
+886,-1,
+888,-1,
+889,-1,
+890,181,5 February 1987
+892,-1,
+893,-1,
+895,182,100 percent
+898,-1,
+899,-1,
+902,-1,
+904,184,It begins at the top with the most senior-ranking personnel and works its way into lower organizations.
+906,163,the Armed Forces Council
+907,185,the advice of his or her ministers in Cabinet
+908,-1,
+909,-1,
+914,186,The governor general
+915,-1,
+916,186,"the heads of the Royal Canadian Navy, the Canadian Army, the Royal Canadian Air Force and other key Level 1 organizations."
+918,-1,
+920,-1,
+921,187,Saint-Jean-sur-Richelieu
+925,188,33
+926,-1,
+927,-1,
+933,189,the 5th Canadian Division
+935,-1,
+940,-1,
+944,-1,
+946,192,eleven
+947,-1,
+949,193,"Alberta, Saskatchewan, Manitoba"
+951,193,"Geilenkirchen, Germany"
+956,194,a chain of forward operating locations
+958,194,CF-18 squadrons
+962,-1,
+963,-1,
+964,195,October 2012
+967,196,generating special operations forces
+969,197,electronic warfare and the protection of the Armed Forces' communications and computer networks
+971,197,June 2011
+972,197,the Director General Cyber
+973,-1,
+975,-1,
+976,-1,
+977,198,the Canadian Armed Forces
+978,198,Joint Task Force
+979,198,domestic support
+980,-1,
+981,-1,
+982,-1,
+984,200,the Naval Reserve (NAVRES)
+986,200,Chief of Reserves and Cadets
+988,201,Cadet Organizations Administration and Training Service
+992,-1,
+993,-1,
+998,-1,
+999,-1,
+1001,203,service dress
+1005,-1,
+1015,-1,
+1018,-1,
+1020,207,a church in Rome as his titular church or linked with one of the suburbicarian dioceses
+1025,208,The Church of England
+1026,-1,
+1031,209,Nicholas II
+1032,-1,
+1035,-1,
+1037,-1,
+1041,210,747
+1042,-1,
+1043,210,1567
+1044,-1,
+1045,-1,
+1048,211,Pope Pius IV
+1050,-1,
+1051,-1,
+1052,-1,
+1055,-1,
+1060,-1,
+1061,-1,
+1062,-1,
+1065,-1,
+1067,214,80
+1071,-1,
+1073,-1,
+1074,-1,
+1077,-1,
+1082,-1,
+1083,-1,
+1086,218,Cardinal [First name] [Surname]
+1087,218,Sanctae Ecclesiae Cardinalis
+1088,218,because they do not belong to the Roman clergy
+1091,219,[First name] Cardinal [Surname]
+1092,237,election and name
+1093,219,1378
+1094,-1,
+1095,-1,
+1096,-1,
+1097,220,the cardinalate
+1099,-1,
+1100,-1,
+1101,221,Cardinal bishops
+1103,-1,
+1104,-1,
+1107,222,he is consecrated
+1111,-1,
+1113,223,"Ostia, Albano, Porto and Santa Rufina, Palestrina, Sabina and Mentana, Frascati and Velletri"
+1115,-1,
+1116,-1,
+1117,223,cardinal bishops
+1118,224,1962
+1119,-1,
+1121,-1,
+1129,228,a galero
+1132,-1,
+1134,231,the cardinalate expires
+1135,229,Eastern Catholic cardinals
+1136,-1,
+1137,-1,
+1141,230,1460s
+1142,-1,
+1143,-1,
+1144,-1,
+1148,-1,
+1151,-1,
+1153,-1,
+1154,-1,
+1157,233,only those who are already priests or bishops may be appointed cardinals
+1159,-1,
+1160,-1,
+1162,-1,
+1165,-1,
+1166,-1,
+1168,-1,
+1169,225,primary
+1171,219,In Latin
+1173,-1,
+1174,-1,
+1175,-1,
+1176,-1,
+1178,-1,
+1180,239,30
+1181,-1,
+1184,-1,
+1185,240,about half
+1186,240,one third
+1187,-1,
+1188,-1,
+1191,-1,
+1192,-1,
+1197,-1,
+1198,-1,
+1199,-1,
+1201,-1,
+1206,-1,
+1208,246,cardinal bishops
+1211,-1,
+1212,-1,
+1214,-1,
+1215,-1,
+1216,-1,
+1218,-1,
+1219,-1,
+1226,-1,
+1228,-1,
+1230,-1,
+1231,-1,
+1232,-1,
+1233,-1,
+1235,-1,
+1236,-1,
+1238,252,longer
+1239,252,Mahbub ul Haq
+1241,-1,
+1243,-1,
+1245,253,the HDI
+1246,-1,
+1247,-1,
+1250,254,people-centered policies
+1251,-1,
+1252,-1,
+1259,-1,
+1260,-1,
+1265,-1,
+1268,-1,
+1271,-1,
+1272,260,Cuba
+1275,-1,
+1277,-1,
+1281,-1,
+1282,-1,
+1285,-1,
+1286,264,"November 4, 2010"
+1290,-1,
+1292,266,Cuba
+1294,-1,
+1298,267,very high human development
+1299,-1,
+1304,269,statistical update
+1305,269,an accompanying Human Development Report
+1306,-1,
+1307,-1,
+1308,270,Fighting climate change: Human solidarity in a divided world
+1309,270,2005
+1310,270,"Brasília, Brazil"
+1311,-1,
+1312,-1,
+1313,-1,
+1314,271,high income countries
+1316,272,Africa
+1317,272,119th
+1318,272,121st
+1319,272,Gabon and South Africa
+1322,-1,
+1329,285,HDI
+1331,-1,
+1333,276,Western
+1335,276,egalitarianism
+1336,-1,
+1337,-1,
+1340,277,three
+1341,277,2010
+1342,-1,
+1346,-1,
+1347,-1,
+1348,-1,
+1350,-1,
+1353,-1,
+1357,-1,
+1358,-1,
+1360,288,"Christianity, Judaism, Islam and Marxism"
+1361,-1,
+1362,289,"Christian, Islamic and Jewish"
+1363,-1,
+1369,-1,
+1370,-1,
+1373,-1,
+1375,-1,
+1377,292,Orthodox Christianity
+1378,292,Tertullian
+1380,-1,
+1381,293,Irenaeus
+1382,293,orthodox
+1390,294,the ecumenical councils
+1392,-1,
+1400,-1,
+1401,296,Priscillian
+1402,296,excommunicated
+1405,296,Nag Hammadi's Apocalypse of Peter
+1406,-1,
+1408,-1,
+1409,-1,
+1411,297,obstinate and willful manifest heresy
+1413,297,"Arianism, Pelagianism, Donatism, Marcionism and Montanism"
+1414,297,Patarini
+1416,298,The Cathar Crusade
+1418,-1,
+1419,-1,
+1420,-1,
+1422,299,the Sun lies motionless at the centre of the universe
+1423,-1,
+1424,-1,
+1427,300,Roman-Christian law
+1430,-1,
+1432,301,the Great Schism and the Protestant Reformation
+1433,301,Arianism
+1435,-1,
+1437,-1,
+1439,302,blasphemous
+1441,-1,
+1442,-1,
+1443,303,European Reformation
+1447,-1,
+1450,-1,
+1452,308,otherworldly reward
+1453,304,Eastern Orthodox and Oriental Orthodox
+1454,-1,
+1459,-1,
+1460,-1,
+1462,-1,
+1463,307,Jorge Luis Borges
+1469,-1,
+1472,-1,
+1477,-1,
+1478,-1,
+1479,312,innovation
+1480,312,an abstraction
+1481,312,orthodoxy
+1485,313,endoheretic
+1488,-1,
+1489,-1,
+1490,314,scientific journals
+1491,-1,
+1493,315,an established orthodoxy
+1494,-1,
+1495,-1,
+1502,319,the USSR
+1503,317,Czechoslovakia
+1505,317,1989
+1506,317,Solidarity
+1507,316,communist states
+1509,-1,
+1512,-1,
+1513,-1,
+1515,319,the USSR
+1518,320,socialism and communism
+1525,-1,
+1526,-1,
+1528,322,1952
+1529,-1,
+1531,-1,
+1532,323,the USA
+1534,-1,
+1537,324,burglar
+1540,-1,
+1542,325,1954
+1544,-1,
+1546,-1,
+1549,-1,
+1555,-1,
+1558,-1,
+1560,-1,
+1563,330,eight
+1564,-1,
+1566,-1,
+1567,331,1963
+1569,-1,
+1572,316,West Germany
+1573,-1,
+1580,-1,
+1581,-1,
+1585,-1,
+1588,-1,
+1592,336,1999
+1593,-1,
+1594,-1,
+1595,-1,
+1596,-1,
+1599,337,Seven Days to the River Rhine
+1601,-1,
+1602,-1,
+1604,-1,
+1605,339,a form of philosophical monism
+1608,-1,
+1610,340,Materialism
+1611,-1,
+1614,-1,
+1616,342,spirit or mind or the objects of mind (ideas)
+1618,-1,
+1620,-1,
+1621,-1,
+1623,-1,
+1624,-1,
+1626,-1,
+1627,-1,
+1630,-1,
+1632,-1,
+1634,345,Eurasia
+1635,-1,
+1636,-1,
+1637,-1,
+1639,346,600 BC
+1641,346,600 BC - 100 BC
+1642,-1,
+1643,-1,
+1647,-1,
+1648,-1,
+1649,-1,
+1650,348,mechanistic explanations
+1652,-1,
+1656,-1,
+1657,-1,
+1658,-1,
+1662,-1,
+1665,351,1664-1729
+1666,351,1713-1784
+1670,-1,
+1671,-1,
+1675,353,Ludwig Feuerbach
+1676,353,1841
+1679,-1,
+1683,-1,
+1685,-1,
+1687,-1,
+1690,-1,
+1693,356,energy
+1694,365,matter
+1697,357,dark matter
+1698,-1,
+1699,-1,
+1702,-1,
+1704,-1,
+1708,-1,
+1709,360,information
+1710,-1,
+1712,-1,
+1716,362,Christians
+1717,-1,
+1720,-1,
+1721,-1,
+1722,-1,
+1725,-1,
+1726,-1,
+1728,-1,
+1731,-1,
+1733,-1,
+1738,-1,
+1739,-1,
+1740,-1,
+1743,-1,
+1748,444,Stalybridge in Cheshire
+1749,381,primarily alcohol-serving establishments
+1757,375,darts
+1758,375,pool or snooker
+1761,383,17th century
+1762,377,1st
+1763,377,tabernae
+1764,377,green
+1767,378,monasteries
+1768,378,pilgrimages
+1770,379,highway
+1771,379,community gathering places
+1772,380,the UK
+1773,380,The George
+1775,381,lodging
+1779,382,Wales
+1785,384,six times
+1792,386,London
+1794,387,gin
+1798,388,Sundays
+1801,389,400
+1802,389,1869
+1803,-1,
+1806,391,The Red Lion
+1807,-1,
+1808,392,ale
+1809,392,17th
+1811,393,19th
+1813,-1,
+1814,394,special Licensing Sessions courts
+1817,395,London Metropolitan Archives centre
+1818,395,owner
+1819,396,the Defence of the Realm Act
+1820,396,August 1914
+1821,396,Pembrokeshire
+1822,397,10:30 pm
+1826,399,"207,800"
+1827,399,"1,121"
+1828,400,1915
+1831,401,April 2007
+1833,401,Carlsberg and Heineken
+1835,402,Balls Pond Road
+1837,402,The Eagle
+1838,402,18th
+1840,404,spit and sawdust
+1843,405,removal of the dividing wall or partition
+1844,406,snug
+1852,409,Isambard Kingdom Brunel
+1853,409,Swindon station pub
+1854,409,engineer and railway builder
+1857,410,1742
+1861,-1,
+1864,413,handpump
+1866,414,a Free house
+1869,415,Young's and Fuller's
+1879,419,serving travellers as coaching inns
+1880,419,the last thirty
+1888,422,John
+1889,422,inspectors
+1892,423,the illustration on the pub's sign
+1894,424,The Cross
+1896,425,East Sussex
+1898,426,the name of the pub
+1900,427,comic
+1901,427,to identify and differentiate each pub
+1902,423,pictures
+1903,429,"John Manners, Marquess of Granby"
+1906,429,18th
+1907,429,the Royal George
+1908,430,Bacchanals
+1909,430,Boulogne-sur-Mer Harbour
+1912,431,Nine Men's Morris
+1914,431,cribbage
+1916,432,sports bar
+1921,434,the 1970s
+1927,436,1960s
+1928,436,a wicker basket
+1932,438,Mike Belben
+1933,439,thirty-six
+1935,439,Belfast
+1937,440,the Tan Hill Inn
+1941,441,11th
+1943,441,1086
+1944,442,Holywell
+1947,443,1240
+1948,443,1631
+1951,444,The Old 13th Cheshire Rifleman Corps Inn
+1954,446,2015
+1955,446,legislation to improve relations between owners and tenants
+1956,447,Buckinghamshire
+1958,447,Chatto & Windus
+1961,448,Charles Dickens
+1966,450,Parliament Square
+1967,450,a Division bell
+1969,450,Mayfair
+1971,451,The Magdala
+1977,452,a coaching inn
+1979,453,C. S. Lewis
+1988,455,"20,000"
+1989,456,craic
+1993,457,tavern
+1994,457,the student's union
+1996,458,browser
+1999,-1,
+2000,-1,
+2008,460,Nexus
+2010,460,Sir Tim Berners-Lee
+2011,460,the World Wide Web Consortium
+2013,-1,
+2014,-1,
+2016,461,Marc Andreessen
+2017,461,Netscape
+2018,461,Netscape Navigator
+2022,-1,
+2024,462,Microsoft
+2029,-1,
+2030,-1,
+2036,-1,
+2037,-1,
+2038,464,late 2004
+2039,-1,
+2044,465,January 2003
+2045,-1,
+2046,-1,
+2050,462,1995
+2051,-1,
+2052,467,Internet Explorer
+2053,467,sales of Windows to computer manufacturers and direct to users
+2054,467,Mac
+2056,-1,
+2057,468,the European Commission
+2060,468,product innovation
+2061,-1,
+2062,-1,
+2063,-1,
+2066,-1,
+2071,-1,
+2073,-1,
+2075,-1,
+2077,-1,
+2080,-1,
+2081,472,Uniform Resource Locator
+2082,472,The prefix of the URL
+2084,472,File Transfer Protocol
+2085,472,default newsgroup reader
+2087,-1,
+2088,-1,
+2089,473,rendering
+2091,-1,
+2093,474,hyperlinks
+2097,-1,
+2103,-1,
+2104,476,pop-up blockers
+2106,-1,
+2108,-1,
+2111,-1,
+2112,-1,
+2113,478,bookmarked
+2115,478,feed aggregator
+2116,478,traditional
+2119,-1,
+2121,479,Most browsers
+2125,480,HTML and XHTML
+2128,-1,
+2129,-1,
+2131,-1,
+2134,-1,
+2136,-1,
+2139,491,valencià
+2140,482,Valencian
+2141,482,Andorra
+2143,538,Acadèmia Aragonesa del Català
+2144,483,The Generalitat of Catalunya
+2150,485,mass media
+2153,486,the same language
+2156,487,Spanish and Portuguese
+2157,487,pronunciation
+2158,488,two
+2159,488,"singular, plural"
+2160,488,inflectional
+2164,490,mid 14th century
+2165,490,Catellain
+2173,493,11th century
+2179,494,15th century
+2180,484,Low Middle Ages
+2182,495,Catalan
+2183,494,14th
+2186,496,chivalry
+2187,496,Metge
+2190,497,16th century
+2193,498,northern part
+2194,498,Treaty of the Pyrenees
+2196,499,French Revolution
+2197,499,patois
+2198,500,1833
+2200,500,patuet
+2201,500,"around 100,000"
+2202,500,1962
+2203,501,French
+2205,501,General Council of the Pyrénées-Orientales
+2206,502,Catalan
+2208,502,Spanish
+2209,497,Spanish
+2215,504,in all schools
+2219,505,Catalan medium education
+2221,506,60 or older
+2223,506,30%
+2224,506,Catalan
+2227,507,ingrained diglossic attitudes
+2228,507,diglossic attitudes
+2230,508,linguists
+2231,509,Occitan language
+2232,487,many traits
+2233,509,closely related
+2235,510,Iberian Peninsula
+2241,513,Occitan
+2245,515,Arabic loanwords
+2246,515,Spanish
+2247,515,of Arabic origin
+2248,524,"Eastern Catalan, and Western Catalan"
+2252,517,cultural affinity and common heritage
+2264,521,three
+2266,521,section pronunciation
+2268,522,analyse the relation
+2271,523,intelligibility
+2272,524,treatment of unstressed a and e
+2273,524,distinct
+2275,525,Northwestern Catalan and Valencian
+2278,525,subdialects
+2280,526,Central Catalan
+2283,520,Western Romance
+2284,-1,
+2287,528,Majorcan
+2289,521,Central Catalan
+2290,528,[o]
+2295,530,higher incidence
+2299,527,unreduced
+2301,532,joves
+2303,533,Central Catalan
+2305,533,lexical divergence
+2307,535,jo compre
+2308,539,Catalan and Valencian
+2310,536,non-ending
+2311,537,Alghero
+2314,537,weak pronouns
+2316,538,Catalan
+2317,538,La Franja
+2319,539,northwestern varieties
+2320,539,Catalan and Valencian
+2321,539,90% to 95%
+2322,540,Valencian Academy of Language
+2328,542,younger generations
+2330,533,Eastern and Western
+2331,533,Catalan
+2333,544,19th century
+2338,555,m'hi recomanaren
+2339,547,-o
+2340,548,Italian and Spanish
+2344,550,suffix -s
+2347,550,addition of -o-
+2349,551,inflection of determinatives
+2351,551,Italian
+2354,552,el meu
+2356,553,13 distinct forms
+2357,553,11
+2360,554,all other Romance languages
+2361,554,English
+2362,554,formality
+2363,555,French or Spanish
+2364,555,passive voice
+2365,556,more complex
+2366,556,morphological alternations
+2367,557,all Western Romance
+2369,558,first conjugation
+2370,558,second
+2371,559,two
+2372,559,joining both surnames
+2373,559,"i (""and"")"
+2375,560,drying
+2376,-1,
+2378,584,fibres
+2380,561,2nd century AD
+2384,-1,
+2387,-1,
+2388,-1,
+2391,562,silk
+2393,561,2nd
+2394,-1,
+2395,-1,
+2396,-1,
+2397,-1,
+2399,-1,
+2400,563,Baghdad
+2401,563,19th
+2403,-1,
+2404,-1,
+2405,-1,
+2406,-1,
+2407,-1,
+2412,564,Greek
+2414,564,Cyperus
+2421,565,lignin
+2422,565,wood-free
+2424,565,90%
+2425,-1,
+2429,-1,
+2431,-1,
+2436,566,Soda pulping
+2439,-1,
+2442,567,groundwood pulp
+2443,567,weak
+2444,-1,
+2446,-1,
+2447,-1,
+2449,-1,
+2450,568,virgin
+2452,-1,
+2456,569,china clay
+2459,-1,
+2460,-1,
+2464,570,felt
+2465,-1,
+2469,-1,
+2472,-1,
+2474,-1,
+2475,-1,
+2477,-1,
+2482,-1,
+2486,-1,
+2487,573,reels
+2488,573,long-grain
+2489,573,cut into sheets
+2494,-1,
+2496,574,density
+2498,-1,
+2499,-1,
+2501,-1,
+2507,-1,
+2508,-1,
+2510,576,thousandths of an inch
+2511,576,0.0028 and 0.0071 in
+2512,-1,
+2514,-1,
+2515,-1,
+2518,577,a ream
+2520,-1,
+2522,-1,
+2523,-1,
+2524,-1,
+2531,-1,
+2532,579,length and width
+2536,-1,
+2537,-1,
+2539,580,Germany
+2540,580,A0
+2546,-1,
+2547,-1,
+2548,-1,
+2551,581,tissue paper
+2554,-1,
+2557,582,Alum
+2564,-1,
+2565,583,lignin
+2566,583,lignin
+2567,583,light and oxygen
+2570,-1,
+2572,-1,
+2574,584,Library of Congress
+2575,584,oxalic
+2576,-1,
+2577,-1,
+2583,-1,
+2584,-1,
+2585,-1,
+2588,586,plant trees
+2594,587,71.6 million
+2595,587,16 billion
+2598,-1,
+2599,-1,
+2601,-1,
+2603,588,through food
+2604,588,the Stockholm Convention on Persistent Organic Pollutants
+2605,-1,
+2606,-1,
+2607,-1,
+2608,-1,
+2613,589,biodegradable
+2614,589,paper
+2615,-1,
+2618,-1,
+2620,-1,
+2621,590,synthetic
+2623,-1,
+2627,-1,
+2630,-1,
+2633,592,vocal
+2634,627,soft AC
+2635,592,soft rock
+2638,593,inoffensive
+2639,594,romantic sentimental ballads
+2641,594,bass guitar
+2642,595,hip hop
+2643,596,contemporary Christian music
+2646,599,"Roger Miller, Barbra Streisand and Bobby Vinton"
+2649,599,Bobby Vinton
+2650,599,rock music continued to harden
+2651,600,1950s
+2655,601,hit singles and album cuts
+2657,602,hard rock
+2659,602,James Taylor
+2660,603,Chicago
+2661,610,the late 1970s and early 1980s
+2664,604,WYNY
+2665,604,Walter Sabo
+2667,606,the early 1970s
+2676,609,John Denver
+2679,610,1980s
+2681,611,six weeks
+2682,611,1983
+2683,612,Aaron Neville
+2685,612,"""All My Life"""
+2687,613,softening
+2688,613,widening of the market
+2689,614,1980s
+2690,614,Savage Garden
+2691,614,Latin pop
+2692,615,Adult Top 40
+2693,615,Adult Contemporary
+2695,616,Barry Mayo
+2701,618,instrumental
+2703,619,senior vice president for adult music
+2704,619,after the hits had become established
+2708,621,Cascada
+2711,622,Michael Bublé
+2712,622,ballad heavy
+2714,623,indie rock
+2715,623,Imagine Dragons
+2719,596,hot AC
+2720,625,the late 2000s/early 2010s
+2722,626,Boston
+2723,626,baloney
+2725,627,office workers
+2727,625,1960s/70s
+2729,629,oldies
+2730,625,oldies
+2731,629,incorporating more oldies
+2733,631,contemporary mainstream music
+2736,631,teen pop
+2742,633,18-34
+2744,633,women
+2745,634,black
+2748,635,hot AC
+2749,639,Adult contemporary
+2752,636,African-Americans
+2753,631,Hot adult contemporary
+2755,635,hot AC
+2756,638,the weekends
+2757,638,to lure younger listeners
+2758,639,urban AC
+2760,639,1970s
+2762,640,jazz-R&B fusion
+2763,640,crossover R&B
+2765,640,ballads
+2767,641,hot AC
+2768,642,soft AC
+2770,642,Johnny Mathis
+2772,643,New Year's Day
+2773,643,the beginning of November
+2775,644,Nanjing
+2776,667,"Hsiajiang (下江, Downstream River) region"
+2777,654,1421
+2778,644,"""Southern Capital"""
+2779,688,Port of Nanjing is the largest inland port in China
+2780,645,Nanjing
+2781,644,Nanjing
+2782,656,Ming Xiaoling mausoleum
+2783,647,473 BC
+2784,-1,
+2785,648,229 AD
+2786,648,229 AD
+2787,648,Sun Quan
+2788,648,during the Three Kingdoms period
+2789,648,211 AD
+2790,649,317
+2791,649,nobles and wealthy families
+2792,675,8.005 million
+2793,650,historical documents
+2794,694,Jiangsu Province
+2795,651,the ensemble of the Tomb of Xiao Xiu
+2796,651,a brother of Emperor Wu of Liang
+2797,651,475–518
+2798,654,1421
+2799,677,Ming dynasty
+2800,652,The court of Da Chu
+2801,652,the Mongol empire
+2802,654,the Yongle Emperor
+2803,-1,
+2804,653,long city wall
+2805,653,21 years
+2806,653,"200,000"
+2807,654,1421
+2808,655,the Taipings
+2809,656,600 years ago
+2810,656,it was impossible to move or complete it
+2811,656,the Yongle Emperor
+2812,657,(Boni 渤泥)
+2813,657,Borneo
+2814,657,a tortoise stele
+2815,658,Zhu Yousong
+2816,658,in June 1644
+2817,658,the so-called Southern Ming dynasty
+2818,659,Zhao the Earl of Xincheng
+2819,659,shave their heads
+2820,658,the spring of 1644
+2821,652,Jinling
+2822,657,early-Ming
+2823,660,1842
+2824,661,the Qing viceroy and the Taiping king
+2825,660,1842
+2826,660,Viceroy of Liangjiang. It had been visited by the Kangxi
+2827,662,January 1912
+2828,654,the Yongle Emperor
+2829,663,1927
+2830,663,Generalissimo Chiang Kai-shek
+2831,663,the Nanking decade
+2832,663,1928
+2833,664,1985
+2834,665,A few days before the fall of the city
+2835,665,1940
+2836,665,Wang Jingwei
+2837,663,1927
+2838,665,"""Reorganized National Government of China"""
+2839,666,21 April
+2840,-1,
+2841,666,October 1949
+2842,667,past the west side and then north side
+2843,682,Yangtze River area
+2844,667,Chongqing
+2845,667,the Ningzheng Ridge
+2846,668,five
+2847,668,Zhenjiang
+2848,669,Stone Mountain
+2849,669,tiger
+2850,670,a humid subtropical climate
+2851,670,the East Asian monsoon
+2852,670,Chongqing and Wuhan
+2853,670,115 days
+2854,670,"1,983 hours"
+2855,671,40
+2856,671,iron and sulfur
+2857,671,strontium
+2858,682,Yangtze River area
+2859,671,Tangshan Hot Spring
+2860,672,Xuanwu Lake and Mochou Lake
+2861,672,Liu Bei
+2862,672,Nanjing's impeccable geographic position
+2863,672,the Yangtze River and mountains
+2864,673,2 December 2013
+2865,673,five straight days
+2866,673,From 5 to 6 December
+2867,674,one-party
+2868,674,the CPC Nanjing Committee Secretary
+2869,675,8.005 million
+2870,675,8.11 million
+2871,676,Hui nationalities
+2872,676,Manchu
+2873,676,"2,311"
+2874,676,50
+2875,677,minting
+2876,677,its strategic geographical location and convenient transportation
+2877,677,Qing dynasty
+2878,677,around 200 thousand jobs
+2879,650,the period of North–South division
+2880,678,the rapid expansion of its wealthy population
+2881,678,huge department stores
+2882,678,One third of the city population
+2883,679,large numbers of layoff
+2884,679,“world-class”
+2885,680,Service industries
+2886,680,about 60 percent
+2887,680,research center
+2888,677,"textiles, minting, printing, shipbuilding"
+2889,681,"RMB 98,174(US$16041)"
+2890,681,lower than the national average
+2891,681,12th
+2892,682,public transportation
+2893,682,two
+2894,683,eastern China
+2895,683,the old Jinpu and Huning Railways
+2896,683,Shanghai–Wuhan–Chengdu Passenger Dedicated Line
+2897,683,several more high-speed rail lines
+2898,684,Nanjing Railway Station and Nanjing South Railway Station
+2899,684,1968
+2900,684,2005
+2901,685,140 mi
+2902,685,Zhongshan Road and Hanzhong
+2903,685,"in the city centre, Xinjiekou"
+2904,685,181.15 mi/100 sq mi
+2905,682,"land, water and air"
+2906,686,three companies
+2907,686,121 stations
+2908,686,2030
+2909,686,more than 370 routes
+2910,687,85 routes
+2911,687,"15,011,792 passengers"
+2912,687,28 June 1997
+2913,687,Nanjing Dajiaochang Airport
+2914,688,Port of Nanjing
+2915,688,98 kilometres (61 mi) in length
+2916,689,the 1960s
+2917,689,symbol of modern China
+2918,689,1968
+2919,689,a two-tiered road and rail design
+2920,690,four
+2921,690,the Tang and Song dynasties
+2922,690,the Ming and Qing dynasties
+2923,691,as a “city of culture”
+2924,691,local educational institutions
+2925,692,Nanjing
+2926,692,Jiangsu Peking Opera Institute
+2927,692,"the Qianxian Dance Company, Nanjing Dance Company"
+2928,693,Jiangsu Province Kun Opera
+2929,693,a conservative and traditional troupe
+2930,693,"Yang, Yue (shaoxing), Xi and Jing"
+2931,699,"convention halls, cinemas, musical halls and theatres"
+2932,694,Jiangsu Art Gallery
+2933,694,Red Chamber Art Garden and Jinling Stone Gallery
+2934,694,their own special exhibitions
+2935,695,January 16
+2936,695,bathing in Qing Xi
+2937,695,hill hiking
+2938,695,Chinese lunar calendar
+2939,695,Almost none of them
+2940,-1,
+2941,696,a series of government-organised events
+2942,696,domestically and internationally
+2943,697,1907
+2944,697,the third largest library in China
+2945,697,Peking University Library
+2946,698,Nanjing
+2947,698,Nanjing Museum
+2948,698,Ming and Qing imperial porcelain
+2949,698,"400,000 items"
+2950,699,"convention halls, cinemas, musical halls and theatres"
+2951,699,the People's Convention Hall and the Nanjing Arts and Culture Center
+2952,699,a museum in theatre/film
+2953,701,the Xinjiekou CBD and Hunan Road
+2954,700,"night markets, restaurants and pubs"
+2955,700,Boating at night in the river
+2956,700,courtesans
+2957,700,Confucius Temple
+2958,701,along Shanghai road and its neighbourhood
+2959,701,international residents of the city
+2960,702,The radish
+2961,702,'Nanjing big radish'
+2962,702,"they are unsophisticated, passionate and conservative"
+2963,703,many professional sports teams
+2964,703,Jiangsu Sainty
+2965,703,Nanjing Olympic Sports Center
+2966,703,CBA
+2967,704,Wutaishan Sports Center
+2968,704,comprehensive sports centers
+2969,704,it was one of the oldest and most advanced stadiums
+2970,704,tennis court
+2971,704,1952
+2972,705,"60,000"
+2973,704,two
+2974,704,two
+2975,706,28
+2976,706,the Olympic spirit
+2977,707,"lush green parks, natural scenic lakes, small mountains"
+2978,708,tourists
+2979,709,75
+2980,709,third
+2981,710,Latin
+2982,710,Greek
+2983,710,discourse
+2984,710,two
+2985,-1,
+2986,-1,
+2987,-1,
+2988,711,a
+2989,711,sociolect
+2990,711,ethnolect
+2991,-1,
+2992,-1,
+2993,-1,
+2994,-1,
+2995,-1,
+2996,712,regional Italian
+2997,-1,
+2998,-1,
+2999,-1,
+3000,-1,
+3001,-1,
+3002,-1,
+3003,-1,
+3004,-1,
+3005,-1,
+3006,-1,
+3007,-1,
+3008,-1,
+3009,714,textbooks
+3010,714,Standard American English
+3011,714,government
+3012,-1,
+3013,-1,
+3014,-1,
+3015,715,institutional support
+3016,715,English
+3017,715,The Dialect Test
+3018,713,vocabulary
+3019,-1,
+3020,-1,
+3021,716,Caribbean
+3022,716,Jamaican
+3023,-1,
+3024,-1,
+3025,-1,
+3026,-1,
+3027,-1,
+3028,717,dialect continua
+3029,717,two varieties are said to be dialects of the same language
+3030,-1,
+3031,-1,
+3032,-1,
+3033,727,regional varieties
+3034,718,East Franconian German
+3035,718,Middle High German
+3036,718,a Yiddish speaker would not consult a German dictionary
+3037,-1,
+3038,-1,
+3039,719,everybody
+3040,-1,
+3041,720,Heinz Kloss
+3042,720,politically and/or culturally
+3043,-1,
+3044,-1,
+3045,-1,
+3046,-1,
+3047,722,variety
+3048,722,dialect
+3049,-1,
+3050,-1,
+3051,-1,
+3052,-1,
+3053,-1,
+3054,-1,
+3055,-1,
+3056,724,historical and political
+3057,724,mutual unintelligibility
+3058,-1,
+3059,-1,
+3060,-1,
+3061,-1,
+3062,-1,
+3063,725,its own independent state
+3064,725,regional autonomy
+3065,725,armed conflict
+3066,-1,
+3067,721,the language of the Pennsylvania Dutch
+3068,-1,
+3069,-1,
+3070,726,Yiddish
+3071,726,1945
+3072,-1,
+3073,-1,
+3074,-1,
+3075,727,traditional regional varieties
+3076,727,regional varieties of modern standard German
+3077,-1,
+3078,-1,
+3079,-1,
+3080,728,Germanic tribes
+3081,-1,
+3082,-1,
+3083,-1,
+3084,729,South
+3085,729,cities
+3086,729,familiar
+3087,-1,
+3088,-1,
+3089,730,Swiss German
+3090,730,standard German
+3091,730,Liechtenstein
+3092,-1,
+3093,731,an ausbau language
+3094,-1,
+3095,-1,
+3096,737,regional Italian dialects
+3097,732,Vulgar Latin
+3098,732,they are not derived from modern standard Italian
+3099,-1,
+3100,727,regional varieties
+3101,-1,
+3102,-1,
+3103,733,Lombardy
+3104,733,Gallo-Italic
+3105,733,Neapolitan
+3106,-1,
+3107,-1,
+3108,-1,
+3109,-1,
+3110,-1,
+3111,734,Latin
+3112,734,upper class
+3113,-1,
+3114,-1,
+3115,735,Alessandro Manzoni
+3116,735,the Risorgimento
+3117,-1,
+3118,735,2.5%
+3119,735,standard Italian
+3120,-1,
+3121,-1,
+3122,736,television
+3123,734,common
+3124,736,outside of one's region
+3125,-1,
+3126,-1,
+3127,-1,
+3128,-1,
+3129,737,standard Italian
+3130,-1,
+3131,-1,
+3132,738,Italo-Dalmatian
+3133,732,Vulgar Latin
+3134,-1,
+3135,-1,
+3136,-1,
+3137,739,Sardinian
+3138,739,Italo-Dalmatian
+3139,739,Gallo-Romance
+3140,739,Sardinian
+3141,-1,
+3142,-1,
+3143,-1,
+3144,-1,
+3145,740,American English
+3146,740,Serbian and Croatian
+3147,740,dialects of a single language
+3148,740,distinct languages
+3149,740,the two countries oscillate from being brotherly to being bitter enemies
+3150,-1,
+3151,-1,
+3152,-1,
+3153,-1,
+3154,741,Bulgarian
+3155,741,South Slavic
+3156,741,1944
+3157,-1,
+3158,-1,
+3159,742,Arabic
+3160,742,Lebanese Arabic
+3161,742,Latin
+3162,-1,
+3163,-1,
+3164,-1,
+3165,743,Literary Arabic
+3166,-1,
+3167,-1,
+3168,-1,
+3169,-1,
+3170,-1,
+3171,-1,
+3172,744,the Tsarist Government
+3173,744,Polish-Lithuanian Commonwealth
+3174,-1,
+3175,-1,
+3176,-1,
+3177,745,The German Empire
+3178,745,the Entente
+3179,745,Bolsheviks
+3180,745,Whites
+3181,-1,
+3182,746,Ukrainian collaborationism with the Axis powers
+3183,746,to gain independence
+3184,-1,
+3185,-1,
+3186,-1,
+3187,-1,
+3188,-1,
+3189,747,Ukraine
+3190,747,Russian
+3191,748,2003
+3192,748,Romanian expansionism
+3193,748,Ion Bărbuţă
+3194,-1,
+3195,-1,
+3196,-1,
+3197,749,the south
+3198,749,Beijing
+3199,-1,
+3200,-1,
+3201,-1,
+3202,-1,
+3203,-1,
+3204,750,Latin
+3205,750,Ancient Greek
+3206,-1,
+3207,-1,
+3208,-1,
+3209,-1,
+3210,-1,
+3211,-1,
+3212,751,Spanish
+3213,751,French having undergone more rapid and more pervasive phonological change
+3214,-1,
+3215,-1,
+3216,-1,
+3217,-1,
+3218,-1,
+3219,752,avere
+3220,752,body parts
+3221,752,ser
+3222,-1,
+3223,-1,
+3224,-1,
+3225,753,Interlingua
+3226,753,International Auxiliary Language Association
+3227,753,Swedish
+3228,753,Portuguese
+3229,753,the international scientific vocabulary
+3230,-1,
+3231,-1,
+3232,795,"236,900"
+3233,795,Polish
+3234,778,county of Hampshire
+3235,804,WestQuay Shopping Centre
+3236,755,October
+3237,769,the Boer War
+3238,755,Hammerson
+3239,754,Soton
+3240,756,"855,569"
+3241,756,South Hampshire
+3242,795,"20,000"
+3243,757,stone age
+3244,757,Bitterne Manor
+3245,757,a wall
+3246,758,Anglo-Saxons
+3247,759,Southampton
+3248,759,Viking
+3249,759,840
+3250,758,The Anglo-Saxons
+3251,759,Southampton
+3252,760,Normandy
+3253,760,12th
+3254,760,French wine
+3255,761,12th
+3256,761,1348
+3257,762,Monaco
+3258,762,1339
+3259,762,1175
+3260,763,God's House Tower
+3261,807,Southampton Maritime Museum
+3262,763,Henry VIII
+3263,762,1380
+3264,764,Castle Way
+3265,764,1233
+3266,764,1538
+3267,764,1940s
+3268,764,Friary House
+3269,765,1290
+3270,765,Conduit Head
+3271,765,1420
+3272,765,Conduit House
+3273,766,English Civil War
+3274,766,1642
+3275,766,Redbridge
+3276,766,March
+3277,767,shipbuilding
+3278,767,Walter Taylor
+3279,767,Industrial Revolution
+3280,768,Battle of Agincourt
+3281,768,Southampton Plot
+3282,768,Richard
+3283,768,the Bargate
+3284,769,the Crimean war
+3285,769,the Great War
+3286,769,POWs
+3287,769,1944
+3288,770,1740
+3289,770,1760s
+3290,770,West Quay
+3291,770,the tide
+3292,769,18th-century
+3293,771,1835
+3294,771,October
+3295,771,1840
+3296,772,John Choules
+3297,772,Oxford
+3298,772,elegant
+3299,773,Mayflower
+3300,773,Four
+3301,774,Portswood
+3302,774,blue
+3303,774,September
+3304,775,630
+3305,775,"2,000"
+3306,776,Georgian
+3307,801,inter-war
+3308,845,1960s
+3309,776,the Bargate
+3310,777,University of Southampton
+3311,778,1959
+3312,777,1952
+3313,778,the Corporation in Southampton
+3314,778,1959
+3315,778,Hantscire
+3316,777,the City of Southampton
+3317,779,King John
+3318,779,£200
+3319,779,Langstone
+3320,779,29 June 1199
+3321,780,Charles I
+3322,780,1640
+3323,780,Victorian period
+3324,780,Hampshire County Council
+3325,781,unitary authority
+3326,781,1992 Local Government Act
+3327,781,Hampshire
+3328,782,48
+3329,782,May
+3330,782,three
+3331,783,Southampton Itchen
+3332,783,Dr. Alan Whitehead
+3333,783,Conservative
+3334,783,west
+3335,784,16
+3336,784,Linda Norris
+3337,784,Catherine McEwing
+3338,784,2014
+3339,784,104
+3340,785,Le Havre
+3341,785,Trieste
+3342,785,"Hampton, Virginia"
+3343,785,1978
+3344,785,Germany
+3345,786,Itchen
+3346,786,The Test
+3347,786,Itchen
+3348,786,The city centre
+3349,787,Town Quay
+3350,787,Southampton Water
+3351,788,two
+3352,788,Isle of Wight
+3353,788,English Channel
+3354,788,large
+3355,788,depth
+3356,786,western
+3357,754,New Forest
+3358,835,M27
+3359,789,Mansbridge
+3360,789,Woodmill Bridge
+3361,755,WestQuay
+3362,790,148
+3363,790,Hawthorns Urban Wildlife Centre
+3364,790,Southampton Zoo
+3365,791,354
+3366,791,96th
+3367,792,oceanic
+3368,792,35.6
+3369,792,1976
+3370,792,96.1
+3371,793,hot water aquifer
+3372,793,West Quay
+3373,793,British Gas
+3374,793,United Kingdom
+3375,756,over 1.5 million
+3376,794,one
+3377,795,Polish
+3378,795,"236,900"
+3379,795,"20,000"
+3380,796,males
+3381,796,20–24
+3382,796,"17,800"
+3383,795,"236,900"
+3384,797,4.9
+3385,797,London
+3386,797,Hampshire County Council
+3387,797,"4,200"
+3388,798,"120,305"
+3389,798,"3,570"
+3390,798,2.4
+3391,799,19
+3392,799,wholesale and retail
+3393,800,"£22,267"
+3394,800,"£1,700"
+3395,800,"£3,800"
+3396,801,2009
+3397,801,Marine Accident Investigation Branch
+3398,802,20th
+3399,802,aircraft
+3400,802,electrical
+3401,802,tobacco
+3402,803,3 million
+3403,803,palliative care
+3404,803,Moorgreen Hospital
+3405,803,West End
+3406,804,WestQuay Shopping Centre
+3407,804,35th
+3408,804,Watermark Westquay
+3409,755,2014
+3410,804,IKEA
+3411,805,skyscrapers
+3412,805,23
+3413,805,Ocean Village
+3414,805,economy
+3415,805,£100m
+3416,806,£4.2 bn
+3417,806,the service sector
+3418,807,God's House Tower
+3419,807,Solent Sky
+3420,807,£28 million
+3421,807,the National Lottery
+3422,808,September
+3423,808,1968
+3424,809,Mayflower Theatre
+3425,809,"2,300"
+3426,810,The Southampton City Art Gallery
+3427,810,a space
+3428,810,Art Vaults
+3429,811,the Guildhall
+3430,811,Bournemouth Symphony Orchestra
+3431,811,Southampton Philharmonic Choir
+3432,812,Junk
+3433,812,dance
+3434,812,the Dolphin
+3435,813,Craig David
+3436,813,Holloways
+3437,813,Kids Can't Fly
+3438,813,dance
+3439,814,South Today
+3440,814,Meridian
+3441,814,2014
+3442,815,2
+3443,815,Unity 101 Community Radio
+3444,816,Hot adult contemporary
+3445,820,"The city hockey club, Southampton Hockey Club"
+3446,824,Banister Court Stadium
+3447,817,1966
+3448,817,the Premier League
+3449,818,Sunday
+3450,818,two
+3451,818,City of Southampton Sunday Football League
+3452,818,Southampton and District Sunday Football League
+3453,819,West End
+3454,819,the Southampton Evening Cricket League
+3455,820,Southampton Hockey Club
+3456,820,7
+3457,820,5
+3458,821,Trojans RFC
+3459,821,London South West 2
+3460,821,Anthony Allen
+3461,821,centre
+3462,822,marinas
+3463,822,the Volvo Ocean Race
+3464,822,Ocean Village marina
+3465,823,Southampton Sports Centre
+3466,823,11
+3467,823,Park Wood Leisure
+3468,824,Men's Fitness
+3469,824,one
+3470,824,London
+3471,824,Banister Court Stadium
+3472,824,1963
+3473,825,Wide Lane Sports Facility
+3474,825,Eastleigh
+3475,826,Hampshire Constabulary
+3476,826,Southern Road
+3477,826,2011
+3478,826,Southampton Central
+3479,827,Hampshire Fire and Rescue Service
+3480,827,three
+3481,827,St Mary's
+3482,828,202
+3483,828,fewer
+3484,828,three
+3485,828,higher
+3486,829,Southampton Solent University
+3487,830,1862
+3488,777,1952
+3489,830,"National Oceanography Centre, Southampton"
+3490,830,THES - QS World University Rankings
+3491,829,"over 40,000"
+3492,831,off-shore oil
+3493,832,two
+3494,832,Southampton City College
+3495,832,Access courses
+3496,832,Barton Peveril College
+3497,832,Richard Taunton Sixth Form College
+3498,833,40
+3499,833,verbal
+3500,833,physical
+3501,834,secondary
+3502,834,three
+3503,834,1
+3504,835,M27
+3505,835,M3
+3506,835,Winchester
+3507,835,M271
+3508,835,good
+3509,836,passenger services
+3510,836,Portsmouth
+3511,837,South West
+3512,836,1840
+3513,837,central
+3514,837,South West Trains
+3515,837,Hampshire County Council
+3516,837,2005
+3517,837,Fawley
+3518,838,"Didcot, Newbury and Southampton Railway"
+3519,838,embankment
+3520,839,north
+3521,839,Southampton Airport (Parkway)
+3522,840,Royal Caribbean
+3523,840,Princess Cruises
+3524,840,Carnival Corporation & plc
+3525,841,HRH The Duchess of Cornwall
+3526,842,Queen Mary 2
+3527,841,Royal Princess
+3528,842,Arrival of the Three Queens
+3529,843,P&O Cruises
+3530,843,175th
+3531,843,seven
+3532,843,Ventura
+3533,843,Oceana
+3534,844,three
+3535,844,Town Quay
+3536,844,Red Funnel
+3537,844,Southampton Water
+3538,845,1960s
+3539,845,1996
+3540,845,a retail and housing development
+3541,845,a marina
+3542,845,Eastern Docks
+3543,846,Buses
+3544,846,Uni-link
+3545,846,Enterprise
+3546,847,Pound Tree Road
+3547,847,Wilts & Dorset
+3548,847,1949
+3549,847,Hanover Buildings
+3550,874,2012
+3551,852,The Daily Universal Register
+3552,852,1788
+3553,848,1785
+3554,-1,
+3555,849,1872
+3556,886,Times New Roman
+3557,886,Victor Lardent
+3558,886,Times New Roman
+3559,870,"2003,"
+3560,850,2004
+3561,851,moderate
+3562,887,Conservatives
+3563,883,"394,448"
+3564,851,Gage Cengage
+3565,885,ABC1
+3566,848,Times Newspapers
+3567,848,The Daily Universal Register
+3568,-1,
+3569,852,libel
+3570,853,steam-driven cylinder press
+3571,853,reputation
+3572,853,Friedrich Koenig
+3573,854,Thomas Barnes
+3574,854,his son
+3575,854,steam-driven rotary printing press
+3576,854,John Thadeus Delane
+3577,855,war
+3578,855,W. H. Russell
+3579,855,Crimean War
+3580,856,Great Reform Bill of 1832
+3581,856,the secessionists
+3582,857,1847
+3583,857,John Walter
+3584,857,the penny press
+3585,858,Arthur Fraser Walter
+3586,858,Horace Everett Hooper
+3587,858,Alfred Harmsworth
+3588,859,Wickham Steed
+3589,859,The Protocols of the Learned Elders of Zion
+3590,859,the world's greatest danger
+3591,859,"The Jewish Peril, a Disturbing Pamphlet: Call for Inquiry"
+3592,860,Philip Graves
+3593,860,retracted the editorial
+3594,861,German appeasement
+3595,861,Neville Chamberlain
+3596,862,Kim Philby
+3597,862,Spanish Civil War
+3598,862,MI6
+3599,862,Soviet Union
+3600,863,E.H. Carr
+3601,863,pro-Soviet
+3602,863,Communists
+3603,855,Crimean War
+3604,864,1966
+3605,864,Roy Thomson
+3606,864,Thomson Corporation
+3607,865,Thomson Corporation
+3608,865,1979 Energy Crisis
+3609,865,union demands
+3610,866,Rupert Murdoch
+3611,866,the unions
+3612,-1,
+3613,867,14 years
+3614,867,hot-metal Linotype printing process
+3615,867,half
+3616,868,seven
+3617,868,political censorship
+3618,868,pro-Israel stance
+3619,868,Iran Air Flight 655
+3620,869,surnames
+3621,870,Northern Ireland
+3622,870,tabloid format
+3623,871,full postal addresses
+3624,871,David Green of Castle Morris Pembrokeshire
+3625,871,158
+3626,868,article on the shooting-down of Iran Air Flight 655
+3627,872,2007
+3628,872,exercising editorial control
+3629,872,House of Lords Select Committee on Communications
+3630,873,Wapping
+3631,873,London
+3632,874,London 2012 Olympics
+3633,874,of London
+3634,875,Opinion/Comment section
+3635,875,£1.20
+3636,875,sport section
+3637,876,Killer Sudoku
+3638,877,football
+3639,877,The Game
+3640,878,Saturday Review
+3641,878,Playlist
+3642,879,Nadiya Hussain
+3643,879,The Great British Bake Off
+3644,879,The Times Magazine
+3645,880,timesonline.co.uk
+3646,880,daily readers
+3647,880,weekly magazine-like content
+3648,880,£2 per week
+3649,881,The Times Digital Archive
+3650,881,Gale databases
+3651,881,academic
+3652,882,paywall
+3653,882,"750,000"
+3654,867,1982
+3655,883,Daily Mail
+3656,884,The Sunday Times
+3657,884,"399,339"
+3658,884,"885,612"
+3659,885,The Times
+3660,886,Times New Roman
+3661,886,Stanley Morison
+3662,887,Tory
+3663,887,Con-Lib coalition
+3664,887,Conservatives
+3665,887,Eurosceptic
+3666,887,Tories
+3667,888,Liberal Democrats
+3668,888,Labour
+3669,889,The Times
+3670,889,Labour Party
+3671,-1,
+3672,890,foreign policy
+3673,891,London Film Festival
+3674,891,Asia House Festival of Asian Literature
+3675,891,The Times
+3676,892,The Times Literary Supplement
+3677,893,Atlases
+3678,893,HarperCollins Publishers
+3679,893,The Times Comprehensive Atlas of the World
+3680,894,Sunday Times Travel Magazine
+3681,894,2003
+3682,894,Sunday Times Travel Magazine
+3683,895,George Orwell
+3684,895,dystopian
+3685,896,Nero Wolfe
+3686,896,New York
+3687,896,London Times
+3688,896,crossword
+3689,897,James Bond
+3690,898,The Wombles
+3691,899,both health and diseases
+3692,906,"failure, aberrant action, and malignant growth"
+3693,903,molecular and cellular components
+3694,899,dermatology
+3695,900,"thymus and bone marrow, and chief lymphatic tissues"
+3696,-1,
+3697,900,surgically excised for examination while patients are still alive
+3698,900,thymus
+3699,903,their function and interaction
+3700,901,not associated with any specific organ
+3701,901,circulating
+3702,905,"non-classical models of immunity and functions of cells, organs and systems"
+3703,906,diseases of other systems
+3704,902,Thucydides
+3705,902,19th and 20th centuries
+3706,903,innate immune system
+3707,903,acquired or adaptive immune system
+3708,903,humoral (or antibody)
+3709,903,cell-mediated
+3710,903,molecular and cellular components
+3711,906,"failure, aberrant action, and malignant growth"
+3712,904,specific proteins
+3713,904,B lymphocytes
+3714,-1,
+3715,904,cellular response
+3716,905,research
+3717,-1,
+3718,905,"cells, organs and systems"
+3719,906,Clinical immunology
+3720,906,"failure, aberrant action, and malignant growth"
+3721,906,diseases of other systems
+3722,906,immune reactions play a part in the pathology and clinical features
+3723,907,asthma and other allergies
+3724,908,AIDS
+3725,908,Human Immunodeficiency Virus (HIV)
+3726,909,"person's age, antigen type, maternal factors and the area"
+3727,909,both their innate and adaptive immunological responses are greatly suppressed
+3728,909,low virulence organisms like Staphylococcus and Pseudomonas
+3729,909,phagocytic
+3730,909,activate T cells
+3731,910,Maternal factors
+3732,-1,
+3733,904,elicits the generation
+3734,910,glycoproteins
+3735,-1,
+3736,911,17-β-oestradiol (an oestrogen)
+3737,911,post-pubescent autoimmunity
+3738,912,strongly experimental
+3739,913,Frank Burnet
+3740,913,self/nonself distinction
+3741,913,"pathogens, an allograft)"
+3742,913,"the complex ""two-signal"" activation"
+3743,913,In the mid-1950s
+3744,914,Bioscience
+3745,899,biomedical science
+3746,914,humans and animals
+3747,914,research
+3748,905,the immune system
+3749,915,Icahn School of Medicine
+3750,915,a course that gives students an overview of the basics of immunology
+3751,916,a doctoral programme
+3752,917,Shias
+3753,917,Ghadir Khumm
+3754,917,4:165
+3755,918,Imams
+3756,918,providing commentary and interpretation of the Quran
+3757,919,they differed over their Imams' successions
+3758,919,Shia - Sunni
+3759,917,Principles of Faith
+3760,920,Muslims
+3761,920,Jesus
+3762,920,not to be from the family of Muhammad
+3763,921,Imām
+3764,921,a person who leads the course of prayer in the mosque
+3765,921,school of thought
+3766,921,infallible
+3767,924,The Occultation
+3768,922,Shia Nizari Ismailis
+3769,922,present and living
+3770,923,seven
+3771,923,Nātıq
+3772,923,disseminate and improve his Dīn of Islam
+3773,923,Sāmad (Silent) Imām
+3774,924,"the ""Shia"""
+3775,924,Ismailis
+3776,924,Bohras
+3777,924,Shia Sevener
+3778,924,Zaidi Shias
+3779,925,via deputies
+3780,925,acted as agents between him and his followers
+3781,925,write their concerns and send them to his deputy
+3782,925,seal and signature
+3783,925,zakat and khums
+3784,926,living imams
+3785,926,Isma'il ibn Jafar
+3786,926,Ja'far al-Sadiq
+3787,924,Bohras
+3788,927,went into a Dawr-e-Satr
+3789,927,manages the affairs of the Imam
+3790,927,Syedna Mufaddal Saifuddin
+3791,928,Muhammad
+3792,928,45
+3793,928,the word 'Mawla'
+3794,928,Lord and Master
+3795,929,no age can be without an Imam
+3796,929,God
+3797,929,Imam
+3798,930,Hussayn ibn 'Alī
+3799,930,Genesis 17:19–20
+3800,931,green
+3801,931,anthocyanins
+3802,931,fruit
+3803,931,15 to 300
+3804,932,Armenia
+3805,932,Shiraz
+3806,932,hieroglyphics
+3807,933,red wine
+3808,933,the French paradox
+3809,933,vasodilation
+3810,934,Grape juice
+3811,934,Thompson Seedless
+3812,935,red wine
+3813,935,white wine
+3814,933,red wine
+3815,936,table grapes
+3816,936,wine grapes
+3817,936,Vitis vinifera
+3818,936,Table grape
+3819,936,approximately 24%
+3820,937,Genesis 9:20–21
+3821,937,Dionysus
+3822,937,Christ
+3823,937,Deuteronomy
+3824,938,three
+3825,938,more than a dozen
+3826,938,Vitis vinifera
+3827,938,Vitis vinifera
+3828,939,flavan-3-ols
+3829,939,Total phenolic content
+3830,939,absence of anthocyanins
+3831,940,the Last Supper
+3832,940,Canon 924
+3833,940,grape juice
+3834,940,transubstantiation
+3835,954,the Spanish milled dollar
+3836,-1,
+3837,941,one hundred dollars
+3838,965,$35 per ounce
+3839,941,Coinage Act of 1792
+3840,-1,
+3841,-1,
+3842,942,$
+3843,942,ps
+3844,942,peso
+3845,960,19th
+3846,942,Spanish America
+3847,-1,
+3848,-1,
+3849,-1,
+3850,-1,
+3851,-1,
+3852,943,green
+3853,943,American Council of the Blind
+3854,943,$1
+3855,943,visually impaired
+3856,943,Bureau of Engraving and Printing
+3857,-1,
+3858,-1,
+3859,-1,
+3860,-1,
+3861,-1,
+3862,944,United States Congress
+3863,944,5112
+3864,969,face value
+3865,944,Sacagawea dollar
+3866,-1,
+3867,-1,
+3868,-1,
+3869,-1,
+3870,945,Jáchymov
+3871,945,silver
+3872,945,tallero
+3873,945,Guldengroschen
+3874,-1,
+3875,-1,
+3876,-1,
+3877,946,European monarchs
+3878,946,after the early 20th century
+3879,946,composite Native Americans
+3880,-1,
+3881,-1,
+3882,-1,
+3883,-1,
+3884,-1,
+3885,947,War of 1812
+3886,947,"""not worth a continental"""
+3887,947,article 1
+3888,-1,
+3889,-1,
+3890,-1,
+3891,-1,
+3892,-1,
+3893,948,2007
+3894,948,Statue of Liberty
+3895,962,E PLURIBUS UNUM IN GOD WE TRUST 2007 P
+3896,948,"""Liberty"""
+3897,948,Grover Cleveland
+3898,-1,
+3899,-1,
+3900,-1,
+3901,-1,
+3902,949,Federal Reserve
+3903,949,Bureau of the Mint
+3904,949,Engraving and Printing
+3905,949,Commercial banks
+3906,-1,
+3907,-1,
+3908,-1,
+3909,-1,
+3910,950,1913
+3911,950,"an ""elastic"" currency"
+3912,950,gold standard
+3913,950,30%
+3914,-1,
+3915,-1,
+3916,951,constant value
+3917,951,some economists
+3918,951,stimulate the economy
+3919,-1,
+3920,-1,
+3921,-1,
+3922,-1,
+3923,-1,
+3924,-1,
+3925,954,416
+3926,954,416
+3927,-1,
+3928,-1,
+3929,-1,
+3930,-1,
+3931,-1,
+3932,953,"""G"""
+3933,953,"""stack"""
+3934,953,the Roman numeral for 100
+3935,953,$50
+3936,-1,
+3937,-1,
+3938,-1,
+3939,954,Coinage Act of 1792
+3940,-1,
+3941,954,Alexander Hamilton
+3942,-1,
+3943,-1,
+3944,-1,
+3945,-1,
+3946,-1,
+3947,955,"December 13, 2011"
+3948,-1,
+3949,-1,
+3950,956,The Constitution
+3951,956,The U.S. dollar
+3952,-1,
+3953,-1,
+3954,-1,
+3955,957,1946
+3956,957,1969
+3957,957,organized crime
+3958,-1,
+3959,-1,
+3960,-1,
+3961,-1,
+3962,-1,
+3963,958,quid
+3964,958,18th
+3965,958,colonial leather trade
+3966,958,Greenback
+3967,958,black
+3968,-1,
+3969,-1,
+3970,-1,
+3971,-1,
+3972,959,Federal Reserve
+3973,959,the Phillips curve
+3974,959,two thirds
+3975,-1,
+3976,960,16th
+3977,960,1792
+3978,960,Peru
+3979,960,1857
+3980,-1,
+3981,-1,
+3982,961,1.505
+3983,961,$20.67
+3984,-1,
+3985,961,Franklin Roosevelt
+3986,-1,
+3987,-1,
+3988,-1,
+3989,-1,
+3990,962,Philadelphia mint
+3991,962,Tennessee
+3992,-1,
+3993,962,"""upside down lettering error"" coins"
+3994,-1,
+3995,-1,
+3996,-1,
+3997,963,issue Federal Reserve Notes
+3998,963,obligations of the United States
+3999,963,"Washington, District of Columbia"
+4000,-1,
+4001,-1,
+4002,-1,
+4003,-1,
+4004,964,Moral suasion
+4005,964,talking monetary policy with the market
+4006,-1,
+4007,-1,
+4008,-1,
+4009,965,after World War II
+4010,968,15:1 ratio of silver
+4011,-1,
+4012,-1,
+4013,-1,
+4014,-1,
+4015,-1,
+4016,-1,
+4017,-1,
+4018,966,de facto currency
+4019,966,Turks and Caicos islands
+4020,966,mints its own coins
+4021,-1,
+4022,-1,
+4023,-1,
+4024,957,collectors' items
+4025,967,Federal Reserve
+4026,967,6.14 inches
+4027,967,Philippine
+4028,-1,
+4029,-1,
+4030,-1,
+4031,-1,
+4032,-1,
+4033,968,Alexander Hamilton
+4034,968,Congressional standard of the silver dollar
+4035,-1,
+4036,954,270
+4037,-1,
+4038,-1,
+4039,969,their precious metal value
+4040,969,their numismatic value
+4041,969,Kennedy half dollar
+4042,969,cupronickel
+4043,969,$4.00
+4044,-1,
+4045,-1,
+4046,-1,
+4047,-1,
+4048,-1,
+4049,-1,
+4050,-1,
+4051,-1,
+4052,-1,
+4053,-1,
+4054,-1,
+4055,-1,
+4056,971,400 billion dollars
+4057,971,over 3000 billion
+4058,971,Eight
+4059,-1,
+4060,-1,
+4061,-1,
+4062,-1,
+4063,972,price inflation
+4064,972,consumer price index
+4065,972,Bureau of Labor Statistics
+4066,972,average price of consumer goods and services in the United States
+4067,-1,
+4068,-1,
+4069,-1,
+4070,-1,
+4071,973,1990
+4072,973,1994
+4073,973,2–0
+4074,-1,
+4075,-1,
+4076,-1,
+4077,974,bridewell
+4078,-1,
+4079,-1,
+4080,976,1992
+4081,-1,
+4082,-1,
+4083,975,Johnny Todd
+4084,975,1994
+4085,975,disapproval
+4086,-1,
+4087,-1,
+4088,-1,
+4089,-1,
+4090,-1,
+4091,976,seven
+4092,976,Everton against Aston Villa
+4093,976,196
+4094,-1,
+4095,-1,
+4096,-1,
+4097,977,1960s
+4098,977,two
+4099,996,The Black Watch
+4100,-1,
+4101,-1,
+4102,978,1931–32
+4103,978,3–0
+4104,978,1938–39
+4105,-1,
+4106,-1,
+4107,-1,
+4108,979,2002
+4109,979,seventh
+4110,979,runners-up
+4111,-1,
+4112,-1,
+4113,980,2013
+4114,980,Nike
+4115,980,poorly
+4116,980,"over 22,000"
+4117,-1,
+4118,981,J. Cruitt
+4119,-1,
+4120,-1,
+4121,982,£30 million
+4122,982,2003
+4123,982,2005
+4124,982,Liverpool
+4125,-1,
+4126,-1,
+4127,979,seventh
+4128,983,FOREVERTON
+4129,-1,
+4130,-1,
+4131,-1,
+4132,-1,
+4133,984,Roberto Martínez
+4134,984,four
+4135,984,Howard Kendall
+4136,-1,
+4137,-1,
+4138,-1,
+4139,-1,
+4140,985,Harry Catterick
+4141,985,1966
+4142,985,Wembley
+4143,-1,
+4144,-1,
+4145,-1,
+4146,-1,
+4147,-1,
+4148,986,Knowsley Council and Tesco
+4149,-1,
+4150,-1,
+4151,-1,
+4152,-1,
+4153,987,"7,000"
+4154,987,loyalty points
+4155,-1,
+4156,-1,
+4157,-1,
+4158,-1,
+4159,-1,
+4160,988,the board of directors
+4161,988,Basic Award Fund
+4162,988,competing in the Premier League
+4163,988,£30 million
+4164,988,25 years
+4165,-1,
+4166,-1,
+4167,-1,
+4168,-1,
+4169,989,Liverpool
+4170,989,Merseyside
+4171,-1,
+4172,989,Goodison Park
+4173,989,"the ""friendly derby"""
+4174,-1,
+4175,-1,
+4176,-1,
+4177,-1,
+4178,990,Neville Southall
+4179,990,Tim Howard
+4180,990,Brian Labone
+4181,990,Ted Sagar
+4182,990,23
+4183,-1,
+4184,-1,
+4185,-1,
+4186,-1,
+4187,991,"78,299"
+4188,-1,
+4189,991,Tom Fleetwood
+4190,-1,
+4191,991,£28m
+4192,-1,
+4193,-1,
+4194,-1,
+4195,992,Tigers
+4196,992,British Basketball League
+4197,992,2007
+4198,992,Greenbank Sports Academy
+4199,992,2009
+4200,976,Division One/Premier League
+4201,-1,
+4202,993,Everton de Viña del Mar
+4203,993,2010
+4204,993,Ruleteros Society
+4205,-1,
+4206,-1,
+4207,-1,
+4208,-1,
+4209,994,14
+4210,994,The Farm
+4211,994,four
+4212,-1,
+4213,-1,
+4214,-1,
+4215,-1,
+4216,-1,
+4217,995,Walter Smith
+4218,995,seventeenth
+4219,-1,
+4220,-1,
+4221,-1,
+4222,-1,
+4223,-1,
+4224,996,1901
+4225,996,The Black Watch
+4226,-1,
+4227,-1,
+4228,997,San Francisco
+4229,997,heavy metal
+4230,-1,
+4231,-1,
+4232,-1,
+4233,-1,
+4234,998,Canadian
+4235,998,"Rush, Fly by Night and Caress of Steel"
+4236,998,Irish
+4237,-1,
+4238,-1,
+4239,-1,
+4240,-1,
+4241,1021,The Circle
+4242,999,12 million
+4243,999,5150
+4244,-1,
+4245,-1,
+4246,-1,
+4247,-1,
+4248,1000,"""I Don't Want to Miss a Thing"""
+4249,-1,
+4250,-1,
+4251,-1,
+4252,-1,
+4253,-1,
+4254,1019,The Ramones
+4255,1009,"Ratt, White Lion, Twisted Sister and Quiet Riot"
+4256,1001,grunge and later Britpop
+4257,1001,Halen
+4258,-1,
+4259,-1,
+4260,-1,
+4261,-1,
+4262,-1,
+4263,1002,electric blues
+4264,1002,Link Wray
+4265,1002,1958
+4266,1002,""""
+4267,1002,Memphis
+4268,-1,
+4269,-1,
+4270,-1,
+4271,-1,
+4272,1003,Exile on Main St.
+4273,1003,Led Zeppelin IV
+4274,1003,"""Highway Star"" and ""Smoke on the Water"""
+4275,1003,Ritchie Blackmore
+4276,1003,Keith Moon
+4277,-1,
+4278,-1,
+4279,-1,
+4280,-1,
+4281,-1,
+4282,1004,Bon Scott
+4283,1004,John Bonham
+4284,-1,
+4285,-1,
+4286,-1,
+4287,-1,
+4288,-1,
+4289,1005,1991
+4290,1005,The Black Crowes
+4291,1005,Adrenalize
+4292,1005,Hysteria
+4293,1005,five weeks
+4294,-1,
+4295,-1,
+4296,-1,
+4297,-1,
+4298,-1,
+4299,1006,Runnin' Wild
+4300,1006,Los Angeles
+4301,-1,
+4302,-1,
+4303,-1,
+4304,-1,
+4305,-1,
+4306,1007,"Elmore James, Muddy Waters, and Howlin' Wolf"
+4307,-1,
+4308,1008,1973
+4309,1008,Bad Company
+4310,1008,Scottish
+4311,1008,"""Bohemian Rhapsody"""
+4312,-1,
+4313,-1,
+4314,1001,glam metal
+4315,1009,High 'n' Dry
+4316,1009,"""Photograph"", ""Rock of Ages"" and ""Foolin'"""
+4317,1009,1983
+4318,-1,
+4319,-1,
+4320,-1,
+4321,-1,
+4322,-1,
+4323,1010,"Pearl Jam, Alice in Chains, Mother Love Bone and Soundgarden"
+4324,1010,a hard rock sound
+4325,-1,
+4326,-1,
+4327,1011,Canada
+4328,1011,Them Crooked Vultures
+4329,-1,
+4330,1000,late 1990s
+4331,1000,the Foo Fighters
+4332,-1,
+4333,1012,The electric guitar
+4334,1012,repetitive riffs with a varying degree of complexity
+4335,1012,a solo lead instrument
+4336,1012,The bass guitar
+4337,-1,
+4338,-1,
+4339,-1,
+4340,-1,
+4341,1013,The Rolling Stones
+4342,-1,
+4343,-1,
+4344,-1,
+4345,1014,Alice Cooper
+4346,1014,ZZ Top
+4347,1014,1975
+4348,1014,Blue Öyster Cult
+4349,-1,
+4350,-1,
+4351,-1,
+4352,-1,
+4353,-1,
+4354,1015,1983
+4355,1015,REO Speedwagon
+4356,-1,
+4357,-1,
+4358,-1,
+4359,1015,"""Keep on Loving You"""
+4360,-1,
+4361,1016,Gary Cherone
+4362,1016,Axl Rose
+4363,1016,1996
+4364,1000,Bush
+4365,-1,
+4366,-1,
+4367,-1,
+4368,1017,heavy metal
+4369,1017,hardcore punk
+4370,1017,stand-alone melodies
+4371,-1,
+4372,-1,
+4373,-1,
+4374,-1,
+4375,-1,
+4376,1018,occult and elements of Gothic horror
+4377,1018,Paranoid
+4378,1018,Judas Priest
+4379,-1,
+4380,-1,
+4381,-1,
+4382,-1,
+4383,1019,The Ramones
+4384,1019,"Kansas, REO Speedwagon and Styx"
+4385,1019,Los Angeles
+4386,1019,"""Eruption"""
+4387,-1,
+4388,-1,
+4389,-1,
+4390,1020,over 17 million copies
+4391,1020,Permanent Vacation
+4392,1005,four
+4393,-1,
+4394,-1,
+4395,-1,
+4396,-1,
+4397,-1,
+4398,-1,
+4399,-1,
+4400,-1,
+4401,1021,Chinese Democracy
+4402,-1,
+4403,-1,
+4404,-1,
+4405,1021,Chinese Democracy
+4406,1022,Nevin Fenneman's
+4407,1022,1916
+4408,1022,the High Plains
+4409,-1,
+4410,1030,Colorado
+4411,-1,
+4412,1034,up to 160 acres
+4413,1023,branded
+4414,1023,10 million
+4415,-1,
+4416,-1,
+4417,-1,
+4418,-1,
+4419,1024,Francisco Vázquez de Coronado
+4420,1024,Hernando de Soto
+4421,1024,the De Soto Trail
+4422,1024,The Spanish
+4423,1024,gold
+4424,-1,
+4425,-1,
+4426,-1,
+4427,1025,The 100th meridian
+4428,1025,20 inches
+4429,1025,dust storms
+4430,1025,humid subtropical climate
+4431,-1,
+4432,-1,
+4433,-1,
+4434,1026,1870
+4435,1026,bison
+4436,1026,European farmers
+4437,1034,1862
+4438,-1,
+4439,-1,
+4440,1027,a third
+4441,1027,"139,000 square miles"
+4442,-1,
+4443,-1,
+4444,-1,
+4445,-1,
+4446,1028,Women
+4447,-1,
+4448,-1,
+4449,-1,
+4450,-1,
+4451,-1,
+4452,1030,broad expanse of flat land
+4453,1030,extensive cattle ranching and dry farming.
+4454,-1,
+4455,-1,
+4456,-1,
+4457,-1,
+4458,-1,
+4459,1031,Commission for Environmental Cooperation
+4460,1031,"Mexican, American, and Canadian governments"
+4461,-1,
+4462,-1,
+4463,-1,
+4464,1032,railroads
+4465,1026,packages of land and transportation
+4466,-1,
+4467,-1,
+4468,-1,
+4469,-1,
+4470,1033,about 25 million years ago
+4471,1033,grazing diets
+4472,1033,development of grazers
+4473,-1,
+4474,-1,
+4475,1034,1862
+4476,1034,up to 160 acres
+4477,1034,five years
+4478,1034,1871
+4479,-1,
+4480,-1,
+4481,-1,
+4482,1035,Biodiversity
+4483,1035,"genetic variation, ecosystem variation, or species variation"
+4484,1035,Terrestrial biodiversity
+4485,1035,along coasts in the Western Pacific
+4486,-1,
+4487,-1,
+4488,-1,
+4489,1036,Bruce A. Wilcox
+4490,1036,International Union for the Conservation of Nature and Natural Resources (IUCN)
+4491,1036,1992
+4492,-1,
+4493,-1,
+4494,-1,
+4495,1037,the Phanerozoic
+4496,1037,exponential and logistic models
+4497,1037,Hyperbolic model
+4498,-1,
+4499,-1,
+4500,-1,
+4501,-1,
+4502,-1,
+4503,1038,Interspecific crop diversity
+4504,1038,Interspecific crop diversity
+4505,1038,If a crop fails in a monoculture
+4506,1038,a pest
+4507,-1,
+4508,-1,
+4509,1039,39%
+4510,1039,39%
+4511,-1,
+4512,-1,
+4513,1040,2007
+4514,1040,in fresh water
+4515,-1,
+4516,-1,
+4517,-1,
+4518,1041,an introduced species
+4519,1041,In Belgium
+4520,1041,unable to compete with the exotic species and unable to survive
+4521,1061,nocturnal rats
+4522,-1,
+4523,-1,
+4524,-1,
+4525,1042,The forests
+4526,1042,5150
+4527,1042,1837
+4528,1042,endemic species
+4529,1042,hunting and grazing
+4530,-1,
+4531,-1,
+4532,-1,
+4533,1043,the Convention on Biological Diversity
+4534,-1,
+4535,-1,
+4536,-1,
+4537,1044,Rapid environmental changes
+4538,1044,over five billion species
+4539,1044,10 million to 14 million
+4540,1044,50 billion tonnes
+4541,-1,
+4542,-1,
+4543,-1,
+4544,1045,the Cambrian explosion
+4545,1045,the Cambrian explosion
+4546,1045,the Permian-Triassic extinction event
+4547,-1,
+4548,-1,
+4549,-1,
+4550,1046,Evil Quartet
+4551,1046,HIPPO
+4552,1046,the World Wildlife Fund
+4553,-1,
+4554,-1,
+4555,-1,
+4556,-1,
+4557,-1,
+4558,1047,genetic pollution
+4559,1047,"uncontrolled hybridization, introgression and genetic swamping"
+4560,1047,either a numerical and/or fitness advantage of an introduced species
+4561,1061,costly unintended consequences
+4562,1047,The abundant species can interbreed with the rare species
+4563,-1,
+4564,-1,
+4565,-1,
+4566,-1,
+4567,1048,Eoarchean Era
+4568,1048,Hadean Eon
+4569,1048,Western Australia
+4570,-1,
+4571,-1,
+4572,-1,
+4573,-1,
+4574,1049,The fossil record
+4575,1049,greater availability and preservation of recent geologic sections.
+4576,1049,Diversity
+4577,-1,
+4578,-1,
+4579,-1,
+4580,1050,Planned diversity
+4581,1050,associated diversity
+4582,1050,associated diversity
+4583,-1,
+4584,-1,
+4585,-1,
+4586,1051,climate change
+4587,1051,"changes in populations and distribution of disease vectors, scarcity of fresh water"
+4588,1051,those that buffer against infectious disease transmission
+4589,-1,
+4590,1052,five major mass extinctions
+4591,1052,the Cambrian explosion
+4592,1052,251 million years ago
+4593,1052,30 million years
+4594,-1,
+4595,1045,during the Phanerozoic (the last 540 million years)
+4596,-1,
+4597,-1,
+4598,-1,
+4599,1053,1900s
+4600,1041,an introduced species
+4601,1053,zebra mussels and the emerald ash borer
+4602,-1,
+4603,1054,"1,350 vertebrates"
+4604,1054,Colombia
+4605,-1,
+4606,1054,Madagascar
+4607,-1,
+4608,-1,
+4609,-1,
+4610,1055,life in the sea
+4611,1055,life on land
+4612,-1,
+4613,-1,
+4614,-1,
+4615,-1,
+4616,-1,
+4617,1056,world population increased from 2.5 billion to 7 billion
+4618,1056,more than 9 billion
+4619,-1,
+4620,-1,
+4621,-1,
+4622,1057,monoculture farms
+4623,-1,
+4624,-1,
+4625,-1,
+4626,-1,
+4627,1058,governments or private organizations
+4628,1058,biodiversity and landscape conservation
+4629,1058,national or state governments
+4630,1058,"Forestry operations, grazing of animals and hunting of animals"
+4631,-1,
+4632,-1,
+4633,-1,
+4634,1059,Sigmar Gabriel
+4635,1059,2050
+4636,1059,25%
+4637,-1,
+4638,-1,
+4639,-1,
+4640,-1,
+4641,-1,
+4642,1060,monoculture following deforestation
+4643,1060,lack of property rights or lax law/regulatory enforcement
+4644,-1,
+4645,-1,
+4646,-1,
+4647,1061,nocturnal rats
+4648,-1,
+4649,1062,Contemporary biodiversity physics
+4650,-1,
+4651,-1,
+4652,1063,biodiversity
+4653,1063,biodiversity
+4654,1063,the climatic conditions and area of the region
+4655,-1,
+4656,-1,
+4657,-1,
+4658,1064,A Different Kind of Country
+4659,1064,the 1980s
+4660,-1,
+4661,-1,
+4662,1065,Biodiversity
+4663,1065,bionics
+4664,-1,
+4665,-1,
+4666,-1,
+4667,1066,the Green Revolution
+4668,1066,local climate and diseases
+4669,1066,Local governments and industry
+4670,-1,
+4671,-1,
+4672,-1,
+4673,-1,
+4674,-1,
+4675,-1,
+4676,1067,Olmstead v. United States
+4677,1067,a warrant
+4678,1067,Communications Act of 1934
+4679,1067,a warrant
+4680,-1,
+4681,-1,
+4682,-1,
+4683,-1,
+4684,1068,Numerous files were taken
+4685,1068,COINTELPRO program
+4686,-1,
+4687,-1,
+4688,-1,
+4689,-1,
+4690,1069,terrorism was no longer considered a threat
+4691,1069,The FBI
+4692,-1,
+4693,-1,
+4694,-1,
+4695,-1,
+4696,1070,FBI and Central Intelligence Agency (CIA)
+4697,1070,acceded to most of the recommendations
+4698,1082,deeply ingrained agency cultural resistance to change
+4699,-1,
+4700,-1,
+4701,-1,
+4702,-1,
+4703,1071,Under the roof of the CJIS
+4704,1071,Many state and local agencies use these data systems
+4705,-1,
+4706,-1,
+4707,-1,
+4708,1072,The FBI director
+4709,1105,An executive assistant director
+4710,-1,
+4711,1072,FBI director
+4712,1072,Director of National Intelligence (DNI)
+4713,-1,
+4714,-1,
+4715,-1,
+4716,-1,
+4717,1073,The Uniform Crime Reports
+4718,1073,"violent crimes, hate crimes, and property crimes"
+4719,1073,1920s
+4720,-1,
+4721,-1,
+4722,-1,
+4723,1074,85%
+4724,1077,carried out controversial domestic surveillance
+4725,1074,the Ku Klux Klan and the National States' Rights Party
+4726,-1,
+4727,-1,
+4728,-1,
+4729,1075,British MI5 and the Russian FSB
+4730,1075,56
+4731,1075,400
+4732,1094,secret activities
+4733,-1,
+4734,-1,
+4735,-1,
+4736,1076,White Slave Traffic Act
+4737,1076,"June 25, 1910"
+4738,1076,1932
+4739,-1,
+4740,-1,
+4741,-1,
+4742,-1,
+4743,1077,Dr. T.R.M. Howard
+4744,1077,FBI
+4745,1077,COINTELPRO
+4746,-1,
+4747,-1,
+4748,1078,1940s
+4749,1078,Eight
+4750,1078,the Venona project
+4751,1078,CIA
+4752,-1,
+4753,-1,
+4754,1079,four
+4755,1079,life in prison
+4756,1079,Two
+4757,1079,$100 million
+4758,-1,
+4759,-1,
+4760,-1,
+4761,-1,
+4762,-1,
+4763,1080,Between 1993 and 1996
+4764,-1,
+4765,1080,1995
+4766,-1,
+4767,-1,
+4768,-1,
+4769,-1,
+4770,-1,
+4771,-1,
+4772,1081,Leonard W. Hatton Jr
+4773,1081,South Tower
+4774,1072,leadership in any one of the FBI field offices is manned with qualified agents
+4775,1081,countering every federal crime
+4776,1081,structure and operations
+4777,-1,
+4778,-1,
+4779,-1,
+4780,1082,"FBI, CIA"
+4781,1070,not pursuing intelligence reports
+4782,1082,effective communication and cooperation among different FBI offices
+4783,-1,
+4784,-1,
+4785,-1,
+4786,-1,
+4787,-1,
+4788,1083,sneak and peek provision
+4789,1083,search a house while the residents are away
+4790,1083,FBI also resumed inquiring into the library records
+4791,1083,those who are suspected of terrorism
+4792,-1,
+4793,-1,
+4794,-1,
+4795,-1,
+4796,-1,
+4797,1084,1974
+4798,1084,J. Edgar Hoover Building
+4799,1084,free
+4800,1084,FBI Academy
+4801,-1,
+4802,-1,
+4803,-1,
+4804,1085,far over budget
+4805,1085,January 2005
+4806,1086,Glock Model 22 pistol
+4807,1086,Glock 17 or Glock 19
+4808,1086,Glock .40 S&W pistol
+4809,1086,general agent use
+4810,-1,
+4811,-1,
+4812,1087,preference-eligible veterans
+4813,1087,must also hold American citizenship
+4814,1087,Single Scope Background Investigations
+4815,1087,Office of Personnel Management
+4816,-1,
+4817,-1,
+4818,-1,
+4819,1088,threats or extortion attempts
+4820,1077,civil rights leaders
+4821,-1,
+4822,-1,
+4823,-1,
+4824,-1,
+4825,-1,
+4826,1089,16 years
+4827,1089,prominently listed
+4828,1089,great embarrassment
+4829,-1,
+4830,-1,
+4831,-1,
+4832,1090,computation and neural-systems
+4833,1090,United States Congress
+4834,1090,conflict of interest edits
+4835,-1,
+4836,-1,
+4837,1091,20 February 2001
+4838,1091,spying for the Soviet Union
+4839,1091,1979 to 2001
+4840,1091,$1.4 million
+4841,-1,
+4842,-1,
+4843,1092,FBI
+4844,1092,U.S. Department of Justice
+4845,1072,Director of National Intelligence
+4846,1092,200
+4847,-1,
+4848,-1,
+4849,-1,
+4850,1093,J. Edgar Hoover
+4851,1093,Scientific Crime Detection Laboratory
+4852,-1,
+4853,-1,
+4854,-1,
+4855,-1,
+4856,-1,
+4857,1069,DNA testing
+4858,1094,60
+4859,1094,not usually
+4860,1094,coordination
+4861,-1,
+4862,-1,
+4863,-1,
+4864,-1,
+4865,1095,in the event of war with Axis
+4866,1095,"December 7, 1941"
+4867,-1,
+4868,-1,
+4869,-1,
+4870,-1,
+4871,-1,
+4872,-1,
+4873,1096,organized crime
+4874,1096,mobsters
+4875,-1,
+4876,1096,The RICO Act is still used
+4877,-1,
+4878,1078,Americans working in the United States for Soviet intelligence
+4879,-1,
+4880,1097,CART
+4881,1097,Internet-related problems
+4882,1097,US operations
+4883,-1,
+4884,-1,
+4885,-1,
+4886,1098,single box of bullets
+4887,1098,18-month
+4888,1098,deeply flawed
+4889,-1,
+4890,-1,
+4891,-1,
+4892,-1,
+4893,1099,Civil Rights Act of 1964
+4894,1099,DOJ
+4895,1092,U.S. Department of Justice
+4896,1099,Controlled Substances Act of 1970
+4897,-1,
+4898,-1,
+4899,-1,
+4900,-1,
+4901,1100,seaport and airport security
+4902,1100,ICE-HSI
+4903,1100,FBI
+4904,-1,
+4905,-1,
+4906,-1,
+4907,-1,
+4908,1101,"Quantico, Virginia"
+4909,1101,21-week
+4910,-1,
+4911,-1,
+4912,-1,
+4913,1102,frequently
+4914,1102,the Bureau
+4915,1074,National Lawyers Guild
+4916,-1,
+4917,-1,
+4918,1103,collecting and reporting data
+4919,1103,crimes
+4920,-1,
+4921,-1,
+4922,-1,
+4923,-1,
+4924,1104,Luis Gutierrez
+4925,-1,
+4926,-1,
+4927,-1,
+4928,-1,
+4929,-1,
+4930,1105,Office of the Director
+4931,1105,An executive assistant director
+4932,1105,offices and divisions
+4933,1105,an assistant director
+4934,1105,deputy assistant directors
+4935,-1,
+4936,-1,
+4937,-1,
+4938,1106,"Quantico, Virginia"
+4939,1106,"Clarksburg, West Virginia"
+4940,1106,96 million
+4941,-1,
+4942,-1,
+4943,-1,
+4944,-1,
+4945,1107,Carnivore
+4946,1107,DCS1000
+4947,1107,2001
+4948,1107,commercially available
+4949,-1,
+4950,-1,
+4951,-1,
+4952,-1,
+4953,-1,
+4954,1108,President of the United States
+4955,1108,United States Senate
+4956,1108,five years
+4957,-1,
+4958,1108,James B. Comey
+4959,-1,
+4960,-1,
+4961,-1,
+4962,1109,Joseph D. Pistone
+4963,-1,
+4964,-1,
+4965,1110,289
+4966,1110,5
+4967,1110,the man's actions
+4968,-1,
+4969,-1,
+4970,-1,
+4971,-1,
+4972,1111,FBI agents
+4973,1111,assassination
+4974,1068,"distributed to a range of newspapers, including The Harvard Crimson"
+4975,1111,Supreme Court
+4976,-1,
+4977,-1,
+4978,-1,
+4979,-1,
+4980,-1,
+4981,1150,Joseph
+4982,1112,12–14 years old
+4983,-1,
+4984,-1,
+4985,-1,
+4986,-1,
+4987,1113,Gabriel
+4988,1113,assumed directly into Heaven
+4989,-1,
+4990,-1,
+4991,-1,
+4992,1114,Munificentissimus Deus
+4993,1114,Pope Pius XII
+4994,1114,Eastern Orthodox Church
+4995,-1,
+4996,-1,
+4997,-1,
+4998,-1,
+4999,1115,40 days
+5000,1115,the Temple in Jerusalem
+5001,1115,prophecies of Simeon and the prophetess Anna in
+5002,1115,Nazareth
+5003,-1,
+5004,-1,
+5005,-1,
+5006,-1,
+5007,-1,
+5008,1116,Levi
+5009,1116,Judah
+5010,1116,Nathan
+5011,-1,
+5012,-1,
+5013,-1,
+5014,-1,
+5015,1117,Mary of Clopas and Mary Magdalene
+5016,1117,pietà
+5017,1117,Salome
+5018,-1,
+5019,1117,a Stabat Mater
+5020,-1,
+5021,-1,
+5022,-1,
+5023,1118,Isis
+5024,1118,Egyptian
+5025,-1,
+5026,-1,
+5027,-1,
+5028,-1,
+5029,1119,Anne Catherine Emmerich
+5030,1119,John the Evangelist
+5031,1119,John
+5032,1119,19th century
+5033,-1,
+5034,-1,
+5035,-1,
+5036,1120,787
+5037,1120,842
+5038,1120,Marian art
+5039,1120,"flat, two-dimensional icons"
+5040,-1,
+5041,-1,
+5042,1121,Ephesus
+5043,1121,Artemis
+5044,1121,William E. Phipps
+5045,1121,Queen Theodora
+5046,1114,In the Eastern Orthodox Church
+5047,-1,
+5048,-1,
+5049,-1,
+5050,-1,
+5051,1122,King David
+5052,1122,Luke
+5053,-1,
+5054,-1,
+5055,-1,
+5056,-1,
+5057,1123,1854
+5058,-1,
+5059,-1,
+5060,-1,
+5061,-1,
+5062,-1,
+5063,-1,
+5064,1124,August 15
+5065,1124,Dormition of the Theotokos
+5066,1124,do not
+5067,-1,
+5068,-1,
+5069,-1,
+5070,-1,
+5071,1125,blue
+5072,1125,lapis lazuli
+5073,1125,Afghanistan
+5074,-1,
+5075,-1,
+5076,-1,
+5077,-1,
+5078,1126,biological mother
+5079,1126,Emanuel Swedenborg
+5080,1126,Nontrinitarians
+5081,-1,
+5082,-1,
+5083,1136,the handmaid of the Lord
+5084,-1,
+5085,-1,
+5086,1127,Maryam
+5087,1127,Luke
+5088,1127,Zakariya
+5089,-1,
+5090,-1,
+5091,1128,Orthodox Churches
+5092,1128,Protoevangelium of James
+5093,-1,
+5094,-1,
+5095,1129,Angels
+5096,-1,
+5097,1129,"""Lady of the Angels"""
+5098,1136,the handmaid of the Lord
+5099,-1,
+5100,1130,the Episcopal Church
+5101,1130,Protestant
+5102,-1,
+5103,-1,
+5104,-1,
+5105,-1,
+5106,1131,venerating Mary
+5107,1131,Age of the Enlightenment
+5108,1131,Catholics
+5109,1132,John Wesley
+5110,1132,Scripture and the ecumenical Creeds
+5111,1132,the Church of England
+5112,1132,the perpetual virginity of Mary
+5113,-1,
+5114,1114,Pope Pius XII
+5115,-1,
+5116,1133,Zakariya
+5117,1133,Al-Mihrab
+5118,1136,in Nazareth in Galilee
+5119,-1,
+5120,-1,
+5121,-1,
+5122,-1,
+5123,1136,in Nazareth in Galilee
+5124,1134,Celsus
+5125,1134,Panthera
+5126,1134,Alexandria
+5127,1134,to challenge the divinity of Jesus
+5128,-1,
+5129,-1,
+5130,-1,
+5131,-1,
+5132,1145,Godbearer
+5133,1135,Maryam
+5134,-1,
+5135,-1,
+5136,-1,
+5137,-1,
+5138,1136,Gabriel
+5139,1136,divorce her
+5140,-1,
+5141,1136,an angel of the Lord
+5142,-1,
+5143,-1,
+5144,1137,alma
+5145,1137,Mt 1:18
+5146,1137,the Apostles' Creed
+5147,-1,
+5148,-1,
+5149,1138,beatus
+5150,-1,
+5151,-1,
+5152,-1,
+5153,-1,
+5154,-1,
+5155,1139,Five
+5156,-1,
+5157,1140,Annunciation of our Lady
+5158,1140,31 May
+5159,1140,New Year's Day
+5160,-1,
+5161,-1,
+5162,-1,
+5163,-1,
+5164,1141,mother
+5165,1141,veneration and invocation
+5166,1141,God
+5167,-1,
+5168,-1,
+5169,-1,
+5170,-1,
+5171,1142,until
+5172,1142,1:23
+5173,1142,Luke
+5174,1142,virgin
+5175,-1,
+5176,-1,
+5177,-1,
+5178,-1,
+5179,-1,
+5180,1143,A prophet
+5181,1143,rejected
+5182,-1,
+5183,-1,
+5184,1144,hyperdulia
+5185,1144,787
+5186,1144,other saints and angels
+5187,1144,Sergei Bulgakov
+5188,1144,latria
+5189,1120,787
+5190,-1,
+5191,1145,Nestorius
+5192,1145,Mother of God
+5193,1145,"""Deipara"" and ""Dei genetrix"""
+5194,1145,Godbearer
+5195,-1,
+5196,-1,
+5197,1146,December 8
+5198,1146,1854
+5199,1146,ancestral sin
+5200,-1,
+5201,-1,
+5202,-1,
+5203,1147,Zachariah
+5204,-1,
+5205,-1,
+5206,-1,
+5207,-1,
+5208,1148,Islamic
+5209,1148,a Messenger of God
+5210,-1,
+5211,1146,Pope Pius IX
+5212,1149,the Toledot Yeshu
+5213,1142,virgin
+5214,1149,the birth of Jesus
+5215,-1,
+5216,-1,
+5217,-1,
+5218,-1,
+5219,-1,
+5220,-1,
+5221,-1,
+5222,-1,
+5223,-1,
+5224,-1,
+5225,-1,
+5226,-1,
+5227,1153,Bcgehi
+5228,1153,Bcgehi
+5229,1154,Symghi tech
+5230,1154,the Cloud Native Computing Foundation
+5231,-1,
+5232,1156,Abc
+5233,1156,year 2056
+5234,-1,
+5235,-1,
+5236,-1,
+5237,-1,
+5238,1159,DevRev PLuG
+5239,1160,communication chains you have with your rev users
+5240,1161,A ticket is associated with a part of the product
+5241,1162,what the developer will work on
+5242,1163,creating a new work item
+5243,1164,a related piece of a product or service
+5244,1172,customers
+5245,1164,a related piece of a product or service
+5246,1165,"a unit of configuration or ""knobs"" in a capability"
+5247,1166,a dev part
